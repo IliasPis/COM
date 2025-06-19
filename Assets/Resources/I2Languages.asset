@@ -1,0 +1,2874 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Play
+      TermType: 0
+      Description: 
+      Languages:
+      - Play
+      - "\u03A0\u03B1\u03AF\u03BE\u03B5"
+      - Jugar
+      - Jokatu
+      - Gioca
+      - Joc
+      - Oynat
+      - Igraj
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Settings
+      TermType: 0
+      Description: 
+      Languages:
+      - Settings
+      - "\u03A1\u03C5\u03B8\u03BC\u03AF\u03C3\u03B5\u03B9\u03C2"
+      - Ajustes
+      - Doikuntzak
+      - Impostazioni
+      - "Set\u0103ri"
+      - Ayarlar
+      - Nastavitve
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Info
+      TermType: 0
+      Description: 
+      Languages:
+      - Info
+      - "\u03A0\u03BB\u03B7\u03C1\u03BF\u03C6\u03BF\u03C1\u03AF\u03B5\u03C2"
+      - "Informaci\xF3n"
+      - Informazioa
+      - Info
+      - "Informa\u021Bii"
+      - Bilgi
+      - Informacije
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Music Volume
+      TermType: 0
+      Description: 
+      Languages:
+      - Music Volume
+      - "\u0388\u03BD\u03C4\u03B1\u03C3\u03B7 \u03BC\u03BF\u03C5\u03C3\u03B9\u03BA\u03AE\u03C2"
+      - "Volumen de la m\xFAsica"
+      - Musikaren bolumena
+      - Volume della musica
+      - Volum muzical
+      - "M\xFCzik Sesi"
+      - Glasnost glasbe
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Sounds
+      TermType: 0
+      Description: 
+      Languages:
+      - Sounds
+      - "\u0389\u03C7\u03BF\u03B9"
+      - Sonidos
+      - Soinuak
+      - Suoni
+      - Sunete
+      - Sesler
+      - Zvoki
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Back
+      TermType: 0
+      Description: 
+      Languages:
+      - Back
+      - "\u03A0\u03AF\u03C3\u03C9"
+      - "Atr\xE1s"
+      - Atzera
+      - Indietro
+      - "\xCEnapoi"
+      - Geri
+      - Nazaj
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: 'The goal of the game is to guide your character through a typical day
+        while making eco-friendly choices to manage organic waste and reduce your
+        carbon footprint. Game Title Screen: Welcome to Organic Waste and Circularity
+        in My Community! Character Selection: Choose and name your character. Challenges
+        Home: Drag and drop various household waste items into the correct bins:
+        compost, recycling, or garbage. Complete sentences about food waste to learn
+        how organic materials can be repurposed. School: Help place composting and
+        recycling bins in the best locations (cafeteria, school garden, playground,
+        and hallway). Answer questions about managing waste at school to deepen your
+        understanding of composting and recycling. Park: Clean up litter scattered
+        around the park by sorting items (like plastic bottles, food scraps, and
+        candy wrappers) into the correct bins. Pack for a picnic by selecting eco-friendly
+        items and making sustainable choices for managing leftovers. Scoring Each
+        activity has a scoring system based on correct answers or actions Personal
+        Report At the end of the game, you ll receive a personal report summarizing
+        your eco-friendly achievements'
+      TermType: 0
+      Description: 
+      Languages:
+      - "The goal of the game is to guide your character through a typical day while
+        making eco-friendly choices\r\nto manage organic waste and reduce your carbon
+        footprint.\r\n\nGame Title Screen: Welcome to Organic Waste and Circularity
+        in My Community!\r\nCharacter Selection: Choose and name your character.\r\nChallenges\r\n\nHome:\r\nDrag
+        and drop various household waste items into the correct bins: compost, recycling,
+        or garbage.\r\nComplete sentences about food waste to learn how organic materials
+        can be repurposed.\r\n\nSchool:\r\nHelp place composting and recycling bins
+        in the best locations (cafeteria, school garden, playground, and\r\nhallway).\r\nAnswer
+        questions about managing waste at school to deepen your understanding of
+        composting and\r\nrecycling.\r\n\nPark:\r\nClean up litter scattered around
+        the park by sorting items (like plastic bottles, food scraps, and candy\r\nwrappers)
+        into the correct bins.\r\nPack for a picnic by selecting eco-friendly items
+        and making sustainable choices for managing leftovers.\r\n\nScoring\r\nEach
+        activity has a scoring system based on correct answers or actions\r\nPersonal
+        Report\r\n\nAt the end of the game, you\u2019ll receive a personal report
+        summarizing your eco-friendly achievements"
+      - "\u039F \u03C3\u03C4\u03CC\u03C7\u03BF\u03C2 \u03C4\u03BF\u03C5 \u03C0\u03B1\u03B9\u03C7\u03BD\u03B9\u03B4\u03B9\u03BF\u03CD
+        \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BD\u03B1 \u03BA\u03B1\u03B8\u03BF\u03B4\u03B7\u03B3\u03AE\u03C3\u03B5\u03C4\u03B5
+        \u03C4\u03BF\u03BD \u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03AE\u03C1\u03B1
+        \u03C3\u03B1\u03C2 \u03BC\u03AD\u03C3\u03B1 \u03B1\u03C0\u03CC \u03BC\u03B9\u03B1
+        \u03C4\u03C5\u03C0\u03B9\u03BA\u03AE \u03B7\u03BC\u03AD\u03C1\u03B1 \u03BA\u03AC\u03BD\u03BF\u03BD\u03C4\u03B1\u03C2
+        \u03C6\u03B9\u03BB\u03B9\u03BA\u03AD\u03C2 \u03C0\u03C1\u03BF\u03C2 \u03C4\u03BF
+        \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AD\u03C2.\n\u03B3\u03B9\u03B1
+        \u03C4\u03B7 \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7
+        \u03C4\u03C9\u03BD \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03BA\u03CE\u03BD
+        \u03B1\u03C0\u03BF\u03B2\u03BB\u03AE\u03C4\u03C9\u03BD \u03BA\u03B1\u03B9
+        \u03C4\u03B7 \u03BC\u03B5\u03AF\u03C9\u03C3\u03B7 \u03C4\u03BF\u03C5 \u03B1\u03C0\u03BF\u03C4\u03C5\u03C0\u03CE\u03BC\u03B1\u03C4\u03BF\u03C2
+        \u03AC\u03BD\u03B8\u03C1\u03B1\u03BA\u03B1.\n\n\u039F\u03B8\u03CC\u03BD\u03B7
+        \u03C4\u03AF\u03C4\u03BB\u03BF\u03C5 \u03C0\u03B1\u03B9\u03C7\u03BD\u03B9\u03B4\u03B9\u03BF\u03CD:
+        \u039A\u03B1\u03BB\u03CE\u03C2 \u03AE\u03C1\u03B8\u03B1\u03C4\u03B5 \u03C3\u03C4\u03B1
+        \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03BA\u03AC \u03B1\u03C0\u03CC\u03B2\u03BB\u03B7\u03C4\u03B1
+        \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03BA\u03C5\u03BA\u03BB\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1
+        \u03C3\u03C4\u03B7\u03BD \u03BA\u03BF\u03B9\u03BD\u03CC\u03C4\u03B7\u03C4\u03AC
+        \u03BC\u03BF\u03C5!\n\u0395\u03C0\u03B9\u03BB\u03BF\u03B3\u03AE \u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03AE\u03C1\u03B1:
+        \u0395\u03C0\u03B9\u03BB\u03AD\u03BE\u03C4\u03B5 \u03BA\u03B1\u03B9 \u03BF\u03BD\u03BF\u03BC\u03AC\u03C3\u03C4\u03B5
+        \u03C4\u03BF\u03BD \u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03AE\u03C1\u03B1
+        \u03C3\u03B1\u03C2.\n\u03A0\u03C1\u03BF\u03BA\u03BB\u03AE\u03C3\u03B5\u03B9\u03C2\n\n\u03A3\u03C0\u03AF\u03C4\u03B9:\n\u03A3\u03CD\u03C1\u03B5\u03C4\u03B5
+        \u03BA\u03B1\u03B9 \u03B1\u03C6\u03AE\u03C3\u03C4\u03B5 \u03B4\u03B9\u03AC\u03C6\u03BF\u03C1\u03B1
+        \u03BF\u03B9\u03BA\u03B9\u03B1\u03BA\u03AC \u03B1\u03C0\u03BF\u03C1\u03C1\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1
+        \u03C3\u03C4\u03BF\u03C5\u03C2 \u03C3\u03C9\u03C3\u03C4\u03BF\u03CD\u03C2
+        \u03BA\u03AC\u03B4\u03BF\u03C5\u03C2: \u03BA\u03BF\u03BC\u03C0\u03CC\u03C3\u03C4,
+        \u03B1\u03BD\u03B1\u03BA\u03CD\u03BA\u03BB\u03C9\u03C3\u03B7 \u03AE \u03C3\u03BA\u03BF\u03C5\u03C0\u03AF\u03B4\u03B9\u03B1.\n\u03A3\u03C5\u03BC\u03C0\u03BB\u03B7\u03C1\u03CE\u03C3\u03C4\u03B5
+        \u03C0\u03C1\u03BF\u03C4\u03AC\u03C3\u03B5\u03B9\u03C2 \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC
+        \u03BC\u03B5 \u03C4\u03B1 \u03B1\u03C0\u03BF\u03C1\u03C1\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1
+        \u03C4\u03C1\u03BF\u03C6\u03AF\u03BC\u03C9\u03BD \u03B3\u03B9\u03B1 \u03BD\u03B1
+        \u03BC\u03AC\u03B8\u03B5\u03C4\u03B5 \u03C0\u03CE\u03C2 \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BD
+        \u03BD\u03B1 \u03B5\u03C0\u03B1\u03BD\u03B1\u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03B7\u03B8\u03BF\u03CD\u03BD
+        \u03C4\u03B1 \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03BA\u03AC \u03C5\u03BB\u03B9\u03BA\u03AC.\n\n\u03A3\u03C7\u03BF\u03BB\u03B5\u03AF\u03BF:\n\u0392\u03BF\u03B7\u03B8\u03AE\u03C3\u03C4\u03B5
+        \u03BD\u03B1 \u03C4\u03BF\u03C0\u03BF\u03B8\u03B5\u03C4\u03AE\u03C3\u03B5\u03C4\u03B5
+        \u03C4\u03BF\u03C5\u03C2 \u03BA\u03AC\u03B4\u03BF\u03C5\u03C2 \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7\u03C2
+        \u03BA\u03B1\u03B9 \u03B1\u03BD\u03B1\u03BA\u03CD\u03BA\u03BB\u03C9\u03C3\u03B7\u03C2
+        \u03C3\u03C4\u03B9\u03C2 \u03BA\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B5\u03C2
+        \u03C4\u03BF\u03C0\u03BF\u03B8\u03B5\u03C3\u03AF\u03B5\u03C2 (\u03BA\u03B1\u03C6\u03B5\u03C4\u03AD\u03C1\u03B9\u03B1,
+        \u03C3\u03C7\u03BF\u03BB\u03B9\u03BA\u03CC\u03C2 \u03BA\u03AE\u03C0\u03BF\u03C2,
+        \u03C0\u03B1\u03B9\u03B4\u03B9\u03BA\u03AE \u03C7\u03B1\u03C1\u03AC \u03BA\u03B1\u03B9\n\u03B4\u03B9\u03AC\u03B4\u03C1\u03BF\u03BC\u03BF).\n\u0391\u03C0\u03B1\u03BD\u03C4\u03AE\u03C3\u03C4\u03B5
+        \u03C3\u03B5 \u03B5\u03C1\u03C9\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2 \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC
+        \u03BC\u03B5 \u03C4\u03B7 \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7
+        \u03C4\u03C9\u03BD \u03B1\u03C0\u03BF\u03B2\u03BB\u03AE\u03C4\u03C9\u03BD
+        \u03C3\u03C4\u03BF \u03C3\u03C7\u03BF\u03BB\u03B5\u03AF\u03BF \u03B3\u03B9\u03B1
+        \u03BD\u03B1 \u03B5\u03BC\u03B2\u03B1\u03B8\u03CD\u03BD\u03B5\u03C4\u03B5
+        \u03C3\u03C4\u03B7\u03BD \u03BA\u03B1\u03C4\u03B1\u03BD\u03CC\u03B7\u03C3\u03B7
+        \u03C4\u03B7\u03C2 \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7\u03C2
+        \u03BA\u03B1\u03B9 \u03C4\u03B7\u03C2\n\u03B1\u03BD\u03B1\u03BA\u03CD\u03BA\u03BB\u03C9\u03C3\u03B7\u03C2.\n\n\u03A0\u03AC\u03C1\u03BA\u03BF:\n\u039A\u03B1\u03B8\u03B1\u03C1\u03AF\u03C3\u03C4\u03B5
+        \u03C4\u03B1 \u03C3\u03BA\u03BF\u03C5\u03C0\u03AF\u03B4\u03B9\u03B1 \u03C0\u03BF\u03C5
+        \u03B2\u03C1\u03AF\u03C3\u03BA\u03BF\u03BD\u03C4\u03B1\u03B9 \u03B4\u03B9\u03AC\u03C3\u03C0\u03B1\u03C1\u03C4\u03B1
+        \u03C3\u03C4\u03BF \u03C0\u03AC\u03C1\u03BA\u03BF, \u03C4\u03B1\u03BE\u03B9\u03BD\u03BF\u03BC\u03CE\u03BD\u03C4\u03B1\u03C2
+        \u03B1\u03BD\u03C4\u03B9\u03BA\u03B5\u03AF\u03BC\u03B5\u03BD\u03B1 (\u03CC\u03C0\u03C9\u03C2
+        \u03C0\u03BB\u03B1\u03C3\u03C4\u03B9\u03BA\u03AC \u03BC\u03C0\u03BF\u03C5\u03BA\u03AC\u03BB\u03B9\u03B1,
+        \u03C5\u03C0\u03BF\u03BB\u03B5\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1 \u03C4\u03C1\u03BF\u03C6\u03AF\u03BC\u03C9\u03BD
+        \u03BA\u03B1\u03B9 \u03B3\u03BB\u03C5\u03BA\u03AC\n\u03C0\u03B5\u03C1\u03B9\u03C4\u03C5\u03BB\u03AF\u03B3\u03BC\u03B1\u03C4\u03B1
+        \u03B3\u03BB\u03C5\u03BA\u03CE\u03BD) \u03C3\u03C4\u03BF\u03C5\u03C2 \u03C3\u03C9\u03C3\u03C4\u03BF\u03CD\u03C2
+        \u03BA\u03AC\u03B4\u03BF\u03C5\u03C2.\n\u03A3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AC\u03C3\u03C4\u03B5
+        \u03B3\u03B9\u03B1 \u03AD\u03BD\u03B1 \u03C0\u03B9\u03BA\u03BD\u03AF\u03BA
+        \u03B5\u03C0\u03B9\u03BB\u03AD\u03B3\u03BF\u03BD\u03C4\u03B1\u03C2 \u03B1\u03BD\u03C4\u03B9\u03BA\u03B5\u03AF\u03BC\u03B5\u03BD\u03B1
+        \u03C6\u03B9\u03BB\u03B9\u03BA\u03AC \u03C0\u03C1\u03BF\u03C2 \u03C4\u03BF
+        \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD \u03BA\u03B1\u03B9
+        \u03BA\u03AC\u03BD\u03BF\u03BD\u03C4\u03B1\u03C2 \u03B2\u03B9\u03CE\u03C3\u03B9\u03BC\u03B5\u03C2
+        \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AD\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B7
+        \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7 \u03C4\u03C9\u03BD
+        \u03C5\u03C0\u03BF\u03BB\u03B5\u03B9\u03BC\u03BC\u03AC\u03C4\u03C9\u03BD.\n\n\u0392\u03B1\u03B8\u03BC\u03BF\u03BB\u03CC\u03B3\u03B7\u03C3\u03B7\n\u039A\u03AC\u03B8\u03B5
+        \u03B4\u03C1\u03B1\u03C3\u03C4\u03B7\u03C1\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1
+        \u03AD\u03C7\u03B5\u03B9 \u03AD\u03BD\u03B1 \u03C3\u03CD\u03C3\u03C4\u03B7\u03BC\u03B1
+        \u03B2\u03B1\u03B8\u03BC\u03BF\u03BB\u03CC\u03B3\u03B7\u03C3\u03B7\u03C2
+        \u03BC\u03B5 \u03B2\u03AC\u03C3\u03B7 \u03C4\u03B9\u03C2 \u03C3\u03C9\u03C3\u03C4\u03AD\u03C2
+        \u03B1\u03C0\u03B1\u03BD\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2 \u03AE \u03B5\u03BD\u03AD\u03C1\u03B3\u03B5\u03B9\u03B5\u03C2\n\u03A0\u03C1\u03BF\u03C3\u03C9\u03C0\u03B9\u03BA\u03AE
+        \u03B1\u03BD\u03B1\u03C6\u03BF\u03C1\u03AC\n\n\u03A3\u03C4\u03BF \u03C4\u03AD\u03BB\u03BF\u03C2
+        \u03C4\u03BF\u03C5 \u03C0\u03B1\u03B9\u03C7\u03BD\u03B9\u03B4\u03B9\u03BF\u03CD,
+        \u03B8\u03B1 \u03BB\u03AC\u03B2\u03B5\u03C4\u03B5 \u03BC\u03B9\u03B1 \u03C0\u03C1\u03BF\u03C3\u03C9\u03C0\u03B9\u03BA\u03AE
+        \u03B1\u03BD\u03B1\u03C6\u03BF\u03C1\u03AC \u03C0\u03BF\u03C5 \u03B8\u03B1
+        \u03C3\u03C5\u03BD\u03BF\u03C8\u03AF\u03B6\u03B5\u03B9 \u03C4\u03B1 \u03BF\u03B9\u03BA\u03BF\u03BB\u03BF\u03B3\u03B9\u03BA\u03AC
+        \u03C3\u03B1\u03C2 \u03B5\u03C0\u03B9\u03C4\u03B5\u03CD\u03B3\u03BC\u03B1\u03C4\u03B1"
+      - "El objetivo del juego es guiar a tu personaje a lo largo de un d\xEDa normal
+        mientras toma decisiones ecol\xF3gicas\npara gestionar los residuos org\xE1nicos
+        y reducir tu huella de carbono.\n\nPantalla de t\xEDtulo del juego: \xA1Bienvenido
+        a Residuos Org\xE1nicos y Circularidad en Mi Comunidad!\nSelecci\xF3n de
+        personaje: Elige y pon nombre a tu personaje.\nDesaf\xEDos\n\nEn casa:\nArrastra
+        y suelta varios residuos dom\xE9sticos en los cubos correctos: compostaje,
+        reciclaje o basura.\nCompleta las frases sobre los residuos de alimentos
+        para aprender c\xF3mo se pueden reutilizar los materiales org\xE1nicos.\n\nEn
+        la escuela:\nAyudar a colocar los cubos de compostaje y reciclaje en los
+        mejores lugares (cafeter\xEDa, jard\xEDn escolar, patio y pasillo).\npasillo).\nResponde
+        a preguntas sobre la gesti\xF3n de residuos en el colegio para profundizar
+        en el compostaje y el\nel compostaje y el reciclaje.\n\nParque:\nLimpia la
+        basura esparcida por el parque clasificando los objetos (botellas de pl\xE1stico,
+        restos de comida y envoltorios de caramelos) en los contenedores adecuados.\nenvoltorios
+        de caramelos) en las papeleras adecuadas.\nHaz la maleta para un picnic seleccionando
+        art\xEDculos ecol\xF3gicos y tomando decisiones sostenibles para gestionar
+        las sobras.\n\nPuntuaci\xF3n\nCada actividad tiene un sistema de puntuaci\xF3n
+        basado en las respuestas o acciones correctas\nInforme personal\n\nAl final
+        del juego, recibir\xE1s un informe personal que resume tus logros ecol\xF3gicos."
+      - "Cilj igre je, da vodite svoj lik skozi obi\u010Dajen dan in pri tem sprejemate
+        okolju prijazne odlo\u010Ditve za ravnanje z organskimi odpadki in zmanj\u0161anje
+        oglji\u010Dnega odtisa. \n\nZaslon z naslovom igre: Dobrodo\u0161li v programu
+        Ekolo\u0161ki odpadki in kro\u017Enost v moji skupnosti!\nIzbor znakov: Izberite
+        in poimenujte svoj lik.\nIzzivi\n\nDom:\r\nVlecite in spustite razli\u010Dne
+        gospodinjske odpadke v ustrezne zabojnike: za kompost, recikliranje ali smeti.\r\nDopolnite
+        stavke o odpadni hrani in se nau\u010Dite, kako lahko organske materiale
+        ponovno uporabimo.\r\n\r\n\u0160ola:\r\nPomagajte postaviti posode za kompostiranje
+        in recikliranje na najbolj\u0161a mesta (jedilnica, \u0161olski vrt, igri\u0161\u010De
+        in hodnik).\r\nOdgovorite na vpra\u0161anja o ravnanju z odpadki v \u0161oli,
+        da poglobite svoje razumevanje kompostiranja in recikliranja.\r\n\r\nPark:\r\nV
+        parku o\u010Distite smeti, ki so raztresene po parku, tako da predmete (kot
+        so plastenke, ostanki hrane in ovitki sladkarij) razvrstite v ustrezne ko\u0161e.\r\nPakirajte
+        za piknik tako, da izberete okolju prijazne predmete in se trajnostno odlo\u010Dite
+        za ravnanje z ostanki hrane.\n\nTo\u010Dkovanje\nVsaka dejavnost ima sistem
+        to\u010Dkovanja, ki temelji na pravilnih odgovorih ali dejanjih.\nOsebno
+        poro\u010Dilo\n\nOb koncu igre prejmete osebno poro\u010Dilo s povzetkom
+        svojih okolju prijaznih dose\u017Ekov."
+      - "L'obiettivo del gioco \xE8 quello di guidare il personaggio in una giornata
+        tipo facendo scelte ecologiche\nper gestire i rifiuti organici e ridurre
+        l'impronta di carbonio.\n\nSchermata del titolo del gioco: Benvenuti a Rifiuti
+        organici e circolarit\xE0 nella mia comunit\xE0!\nSelezione del personaggio:
+        Scegliete e date un nome al vostro personaggio.\nSfide\n\nCasa:\nTrascinate
+        i vari rifiuti domestici nei contenitori corretti: compost, riciclaggio o
+        spazzatura.\nCompletare le frasi sui rifiuti alimentari per imparare come
+        i materiali organici possono essere riutilizzati.\n\nScuola:\nAiutate a posizionare
+        i contenitori per il compostaggio e il riciclaggio nelle posizioni migliori
+        (mensa, giardino della scuola, parco giochi e corridoio).\ncorridoio).\nRispondere
+        alle domande sulla gestione dei rifiuti a scuola per approfondire la comprensione
+        del compostaggio e del riciclo.\nriciclaggio.\n\nParco:\nRipulire i rifiuti
+        sparsi nel parco selezionando gli oggetti (come bottiglie di plastica, scarti
+        di cibo e involucri di caramelle) nei contenitori corretti.\ncaramelle) negli
+        appositi contenitori.\nPreparare un picnic scegliendo articoli ecologici
+        e facendo scelte sostenibili per la gestione degli avanzi.\n\nPunteggio\nOgni
+        attivit\xE0 prevede un sistema di punteggio basato su risposte o azioni corrette.\nRapporto
+        personale\n\nAlla fine del gioco, riceverete un rapporto personale che riassume
+        i vostri risultati ecologici."
+      - "Scopul jocului este s\u0103 v\u0103 ghida\u021Bi personajul de-a lungul
+        unei zile obi\u0219nuite, f\u0103c\xE2nd \xEEn acela\u0219i timp alegeri
+        ecologice\npentru a gestiona de\u0219eurile organice \u0219i a v\u0103 reduce
+        amprenta de carbon.\n\nEcranul cu titlul jocului: Bine a\u021Bi venit la
+        De\u0219euri organice \u0219i circularitate \xEEn comunitatea mea!\nSelectarea
+        personajului: Alege\u021Bi-v\u0103 \u0219i denumi\u021Bi-v\u0103 personajul.\nProvoc\u0103ri\n\nAcas\u0103:\nTrage\u021Bi
+        \u0219i elibera\u021Bi diverse de\u0219euri menajere \xEEn containerele corecte:
+        compost, reciclare sau gunoi.\nCompleta\u021Bi propozi\u021Bii despre de\u0219eurile
+        alimentare pentru a afla cum pot fi refolosite materialele organice.\n\n\u0218coal\u0103:\nAjuta\u021Bi
+        la amplasarea pubelelor de compostare \u0219i reciclare \xEEn cele mai bune
+        locuri (cantin\u0103, gr\u0103dina \u0219colii, loc de joac\u0103 \u0219i\ncoridor).\nR\u0103spunde\u021Bi
+        la \xEEntreb\u0103ri despre gestionarea de\u0219eurilor la \u0219coal\u0103
+        pentru a aprofunda \xEEn\u021Belegerea compost\u0103rii \u0219i\nreciclare.\n\nParc:\nCur\u0103\u021Ba\u021Bi
+        gunoiul \xEEmpr\u0103\u0219tiat prin parc tri\xE2nd obiectele (cum ar fi
+        sticlele de plastic, resturile alimentare \u0219i ambalajele de bomboane\nambalaje
+        de dulciuri) \xEEn pubelele potrivite.\n\xCEmpacheta\u021Bi pentru un picnic
+        select\xE2nd articole ecologice \u0219i f\u0103c\xE2nd alegeri durabile pentru
+        gestionarea resturilor.\n\nPunctaj\nFiecare activitate are un sistem de notare
+        bazat pe r\u0103spunsuri sau ac\u021Biuni corecte\nRaport personal\n\nLa
+        sf\xE2r\u0219itul jocului, ve\u021Bi primi un raport personal care va rezuma
+        realiz\u0103rile dvs. ecologice"
+      - "Oyunun amac\u0131, karakterinize tipik bir g\xFCn boyunca rehberlik ederken
+        \xE7evre dostu se\xE7imler yapmakt\u0131r\norganik at\u0131klar\u0131 y\xF6netmek
+        ve karbon ayak izinizi azaltmak i\xE7in.\n\nOyun Ba\u015Fl\u0131k Ekran\u0131:
+        Toplulu\u011Fumda Organik At\u0131k ve D\xF6ng\xFCselli\u011Fe Ho\u015F Geldiniz!\nKarakter
+        Se\xE7imi: Karakterinizi se\xE7in ve isim verin.\nZorluklar\n\nEv:\n\xC7e\u015Fitli
+        evsel at\u0131k maddelerini s\xFCr\xFCkleyip do\u011Fru kutulara b\u0131rak\u0131n:
+        kompost, geri d\xF6n\xFC\u015F\xFCm veya \xE7\xF6p.\nOrganik malzemelerin
+        nas\u0131l yeniden kullan\u0131labilece\u011Fini \xF6\u011Frenmek i\xE7in
+        g\u0131da at\u0131klar\u0131yla ilgili c\xFCmleleri tamamlay\u0131n.\n\nOkul:\nKompost
+        ve geri d\xF6n\xFC\u015F\xFCm kutular\u0131n\u0131n en iyi yerlere yerle\u015Ftirilmesine
+        yard\u0131mc\u0131 olun (kafeterya, okul bah\xE7esi, oyun alan\u0131 ve\nkoridor).\nKompostlama
+        anlay\u0131\u015F\u0131n\u0131z\u0131 derinle\u015Ftirmek i\xE7in okulda
+        at\u0131k y\xF6netimi hakk\u0131ndaki sorular\u0131 yan\u0131tlay\u0131n
+        ve\ngeri d\xF6n\xFC\u015F\xFCm.\n\nPark:\nPark\u0131n etraf\u0131na da\u011F\u0131lm\u0131\u015F
+        \xE7\xF6pleri (plastik \u015Fi\u015Feler, yiyecek art\u0131klar\u0131 ve
+        \u015Fekerleme gibi) ay\u0131rarak temizleyin.\nambalajlar\u0131) do\u011Fru
+        kutulara at\u0131n.\n\xC7evre dostu \xFCr\xFCnler se\xE7erek ve art\u0131klar\u0131
+        y\xF6netmek i\xE7in s\xFCrd\xFCr\xFClebilir se\xE7imler yaparak piknik i\xE7in
+        haz\u0131rlan\u0131n.\n\nPuanlama\nHer aktivitenin do\u011Fru cevaplara veya
+        eylemlere dayal\u0131 bir puanlama sistemi vard\u0131r\nKi\u015Fisel Rapor\n\nOyunun
+        sonunda, \xE7evre dostu ba\u015Far\u0131lar\u0131n\u0131z\u0131 \xF6zetleyen
+        ki\u015Fisel bir rapor alacaks\u0131n\u0131z"
+      - "Cilj igre je, da svoj lik vodite skozi obi\u010Dajen dan in pri tem sprejemate
+        okolju prijazne odlo\u010Ditve.\nza ravnanje z organskimi odpadki in zmanj\u0161anje
+        oglji\u010Dnega odtisa.\n\nNaslovni zaslon igre: Dobrodo\u0161li v igri Organski
+        odpadki in kro\u017Enost v moji skupnosti!\nIzbira lika: Izberite in poimenujte
+        svoj lik.\nIzzivi:\n\nDomov:\nVlecite in spustite razli\u010Dne gospodinjske
+        odpadke v prave posode: kompost, recikliranje ali smeti.\nDopolnite stavke
+        o odpadni hrani in se nau\u010Dite, kako lahko organske materiale ponovno
+        uporabimo.\n\n\u0160ola: Izkoristite odpadke in odpadke iz odpadkov:\nPomagajte
+        postaviti posode za kompostiranje in recikliranje na najbolj\u0161a mesta
+        (jedilnica, \u0161olski vrt, igri\u0161\u010De in\nhodnik).\nOdgovorite na
+        vpra\u0161anja o ravnanju z odpadki v \u0161oli, da poglobite svoje razumevanje
+        kompostiranja in\nrecikliranja.\n\nPark:\nV parku: o\u010Distite smeti, raztresene
+        po parku, tako da razvrstite predmete (kot so plastenke, ostanki hrane in
+        sladkarije) in jih pospravite.\novitki sladkarij) v ustrezne zabojnike.\nPakirajte
+        za piknik tako, da izberete okolju prijazne predmete in se trajnostno odlo\u010Dite
+        za ravnanje z ostanki hrane.\n\nTo\u010Dkovanje\nVsaka dejavnost ima sistem
+        to\u010Dkovanja, ki temelji na pravilnih odgovorih ali dejanjih\nOsebno poro\u010Dilo\n\nOb
+        koncu igre boste prejeli osebno poro\u010Dilo, v katerem bodo povzeti va\u0161i
+        okolju prijazni dose\u017Eki."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Enter text...
+      TermType: 0
+      Description: 
+      Languages:
+      - Enter text
+      - "\u03A0\u03BB\u03B7\u03BA\u03C4\u03C1\u03BF\u03BB\u03BF\u03B3\u03AE\u03C3\u03C4\u03B5
+        \u03BA\u03B5\u03AF\u03BC\u03B5\u03BD\u03BF"
+      - Introducir texto
+      - Testua sartu
+      - Inserisci il testo
+      - Inserisci il testo
+      - Metin girin
+      - Vnesite besedilo
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Ok
+      TermType: 0
+      Description: 
+      Languages:
+      - Ok
+      - "\u0395\u03BD\u03C4\u03AC\u03BE\u03B5\u03B9"
+      - Ok
+      - 
+      - Ok
+      - Bine
+      - Tamam
+      - Ok
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: HOME
+      TermType: 0
+      Description: 
+      Languages:
+      - HOME
+      - "\u03A3\u03A0\u0399\u03A4\u0399"
+      - CASA
+      - ETXEA
+      - CASA
+      - "Acas\u0103"
+      - EV
+      - DOM
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: SCHOOL
+      TermType: 0
+      Description: 
+      Languages:
+      - SCHOOL
+      - "\u03A3\u03A7\u039F\u039B\u0395\u0399\u039F"
+      - ESCUELA
+      - ESKOLA
+      - SCUOLA
+      - "\u0218coal\u0103"
+      - OKUL
+      - "\u0160OLA"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PARK
+      TermType: 0
+      Description: 
+      Languages:
+      - PARK
+      - "\u03A0\u0386\u03A1\u039A\u039F"
+      - PARQUE
+      - PARKEA
+      - PARCO
+      - Parc
+      - PARK
+      - PARK
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: SELECT NEXT STAGE
+      TermType: 0
+      Description: 
+      Languages:
+      - Select next stage
+      - "\u0395\u03C0\u03B9\u03BB\u03AD\u03BE\u03C4\u03B5 \u03C4\u03BF \u03B5\u03C0\u03CC\u03BC\u03B5\u03BD\u03BF
+        \u03C3\u03C4\u03AC\u03B4\u03B9\u03BF"
+      - Selecciona la siguiente etapa
+      - Hautatu hurrengo etapa
+      - Seleziona  la fase successiva
+      - "Selecteaz\u0103 urm\u0103torul stagiu"
+      - "Bir sonraki a\u015Famay\u0131 se\xE7in"
+      - Izberite naslednjo stopnjo
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Funded by the European Union. Views and opinions expressed are however
+        those of the author(s) only and do not necessarily reflect those of the European
+        Union or the European Education and Culture Executive Agency (EACEA). Neither
+        the European Union nor EACEA can be held responsible for them. 2022-1-ES01-KA220-SCH-000086157
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Welcome to Organic Waste and Circularity in Community, a game where your
+        actions can make a real-world impact!ur character
+      TermType: 0
+      Description: 
+      Languages:
+      - Welcome to Organic Waste and Circularity in Community, a game where your
+        actions can make a real-world impact!ur character
+      - "\u039A\u03B1\u03BB\u03CE\u03C2 \u03AE\u03C1\u03B8\u03B1\u03C4\u03B5 \u03C3\u03C4\u03BF
+        Organic Waste and Circularity in Community, \u03AD\u03BD\u03B1 \u03C0\u03B1\u03B9\u03C7\u03BD\u03AF\u03B4\u03B9
+        \u03CC\u03C0\u03BF\u03C5 \u03BF\u03B9 \u03B5\u03BD\u03AD\u03C1\u03B3\u03B5\u03B9\u03AD\u03C2
+        \u03C3\u03B1\u03C2 \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BD \u03BD\u03B1
+        \u03AD\u03C7\u03BF\u03C5\u03BD \u03B1\u03BD\u03C4\u03AF\u03BA\u03C4\u03C5\u03C0\u03BF
+        \u03C3\u03C4\u03BF\u03BD \u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC
+        \u03BA\u03CC\u03C3\u03BC\u03BF!"
+      - "Bienvenido a Residuos Org\xE1nicos y Circularidad en la Comunidad, un juego
+        en el que tus acciones pueden tener un impacto en el mundo real!ur personaje"
+      - Ongi etorri Hondakin Organikoetara eta Komunitateko Zirkulartasunera. Joko
+        honetan, zure ekintzek eragina izan dezakete benetako munduan.
+      - "Benvenuti in Rifiuti organici e circolarit\xE0 nella comunit\xE0, un gioco
+        in cui le vostre azioni possono avere un impatto sul mondo reale!"
+      - "Bine ai venit la Organic Waste and Circularity in Community, un joc \xEEn
+        care ac\u021Biunile tale pot avea un impact real! Personajul t\u0103u"
+      - "Toplulukta Organik At\u0131k ve D\xF6ng\xFCselli\u011Fe ho\u015F geldiniz,
+        eylemlerinizin ger\xE7ek d\xFCnyada etki yaratabilece\u011Fi bir oyun! karakteriniz"
+      - "Dobrodo\u0161li v igri Organic Waste and Circularity in Community, v kateri
+        lahko s svojimi dejanji vplivate na realni svet! tvoj lik"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: I am so excited! Yesterday at school we learned all about food waste
+        and how most of it can actually be reused or composted instead of just tossing
+        it!
+      TermType: 0
+      Description: 
+      Languages:
+      - '"I am so excited! Yesterday at school we learned all about food waste and
+        how most of it can actually be reused or composted instead of just tossing
+        it! '
+      - "\xAB\u0395\u03AF\u03BC\u03B1\u03B9 \u03C4\u03CC\u03C3\u03BF \u03B5\u03BD\u03B8\u03BF\u03C5\u03C3\u03B9\u03B1\u03C3\u03BC\u03AD\u03BD\u03B7!
+        \u03A7\u03B8\u03B5\u03C2 \u03C3\u03C4\u03BF \u03C3\u03C7\u03BF\u03BB\u03B5\u03AF\u03BF
+        \u03BC\u03AC\u03B8\u03B1\u03BC\u03B5 \u03C4\u03B1 \u03C0\u03AC\u03BD\u03C4\u03B1
+        \u03B3\u03B9\u03B1 \u03C4\u03B1 \u03B1\u03C0\u03BF\u03C1\u03C1\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1
+        \u03C4\u03C1\u03BF\u03C6\u03AF\u03BC\u03C9\u03BD \u03BA\u03B1\u03B9 \u03C0\u03CE\u03C2
+        \u03C4\u03B1 \u03C0\u03B5\u03C1\u03B9\u03C3\u03C3\u03CC\u03C4\u03B5\u03C1\u03B1
+        \u03B1\u03C0\u03CC \u03B1\u03C5\u03C4\u03AC \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BD
+        \u03BD\u03B1 \u03B5\u03C0\u03B1\u03BD\u03B1\u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03B7\u03B8\u03BF\u03CD\u03BD
+        \u03AE \u03BD\u03B1 \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03B9\u03B7\u03B8\u03BF\u03CD\u03BD
+        \u03B1\u03BD\u03C4\u03AF \u03BD\u03B1 \u03C4\u03B1 \u03C0\u03B5\u03C4\u03AC\u03BE\u03BF\u03C5\u03BC\u03B5! "
+      - "\xAB\xA1Estoy muy emocionada! Ayer en el colegio aprendimos todo sobre el
+        desperdicio de comida y c\xF3mo la mayor parte puede reutilizarse o compostarse
+        en lugar de tirarla. "
+      - 'Oso hunkituta nago! Atzo eskolan ikasi genuen guztia elikagaiak alferrik
+        galtzeari buruz, eta elikagai gehienak berrerabili edo konpostatu egin daitezke,
+        bota besterik egin gabe.  '
+      - "\u201CSono cos\xEC entusiasta! Ieri a scuola abbiamo imparato tutto sui
+        rifiuti alimentari e su come la maggior parte di essi possa essere riutilizzata
+        o compostata invece di essere buttata! "
+      - "\u201ESunt at\xE2t de entuziasmat\u0103! Ieri, la \u0219coal\u0103, am \xEEnv\u0103\u021Bat
+        totul despre de\u0219eurile alimentare \u0219i despre cum majoritatea acestora
+        pot fi de fapt reutilizate sau compostate, \xEEn loc s\u0103 le arunc\u0103m
+        pur \u0219i simplu! "
+      - "\u201C\xC7ok heyecanl\u0131y\u0131m! D\xFCn okulda g\u0131da at\u0131klar\u0131
+        hakk\u0131nda her \u015Feyi \xF6\u011Frendik ve bunlar\u0131n \xE7o\u011Funu
+        atmak yerine asl\u0131nda nas\u0131l yeniden kullanabilece\u011Fimizi veya
+        kompost yapabilece\u011Fimizi \xF6\u011Frendik! "
+      - "\u201EZelo sem navdu\u0161ena! V\u010Deraj smo se v \u0161oli nau\u010Dili
+        vse o odpadni hrani in o tem, da lahko ve\u010Dino hrane ponovno uporabimo
+        ali kompostiramo, namesto da jo preprosto zavr\u017Eemo! "
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: I didn t realize how much of a difference I could make. I m so pumped
+        to try this at home now Today, I m going to track all the organic waste I
+        produce throughout my day,
+      TermType: 0
+      Description: 
+      Languages:
+      - "I didn\u2019t realize how much of a difference I could make. I\u2019m so
+        pumped to try this at home now\u2014Today, I\u2019m going to track all the
+        organic waste I produce throughout my day, "
+      - "\u0394\u03B5\u03BD \u03B5\u03AF\u03C7\u03B1 \u03C3\u03C5\u03BD\u03B5\u03B9\u03B4\u03B7\u03C4\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03B5\u03B9
+        \u03C0\u03CC\u03C3\u03B7 \u03B4\u03B9\u03B1\u03C6\u03BF\u03C1\u03AC \u03B8\u03B1
+        \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03C3\u03B1 \u03BD\u03B1 \u03BA\u03AC\u03BD\u03C9.
+        \u0395\u03AF\u03BC\u03B1\u03B9 \u03C4\u03CC\u03C3\u03BF \u03B5\u03BD\u03B8\u03BF\u03C5\u03C3\u03B9\u03B1\u03C3\u03BC\u03AD\u03BD\u03B7
+        \u03BD\u03B1 \u03C4\u03BF \u03B4\u03BF\u03BA\u03B9\u03BC\u03AC\u03C3\u03C9
+        \u03B1\u03C5\u03C4\u03CC \u03C3\u03C4\u03BF \u03C3\u03C0\u03AF\u03C4\u03B9
+        \u03C4\u03CE\u03C1\u03B1 - \u03A3\u03AE\u03BC\u03B5\u03C1\u03B1, \u03B8\u03B1
+        \u03C0\u03B1\u03C1\u03B1\u03BA\u03BF\u03BB\u03BF\u03C5\u03B8\u03CE \u03CC\u03BB\u03B1
+        \u03C4\u03B1 \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03BA\u03AC \u03B1\u03C0\u03CC\u03B2\u03BB\u03B7\u03C4\u03B1
+        \u03C0\u03BF\u03C5 \u03C0\u03B1\u03C1\u03AC\u03B3\u03C9 \u03BA\u03B1\u03C4\u03AC
+        \u03C4\u03B7 \u03B4\u03B9\u03AC\u03C1\u03BA\u03B5\u03B9\u03B1 \u03C4\u03B7\u03C2
+        \u03B7\u03BC\u03AD\u03C1\u03B1\u03C2 \u03BC\u03BF\u03C5, "
+      - "No me hab\xEDa dado cuenta de la diferencia que pod\xEDa suponer. Estoy
+        tan emocionada de probar esto en casa ahora - Hoy, voy a rastrear todos los
+        residuos org\xE1nicos que produzco a lo largo de mi d\xEDa, "
+      - Ez nintzen konturatu zer desberdintasun ekar zezakeen. Hori etxean probatzeko
+        hain hunkituta nago orain - Gaur, nire egunean sortzen ditudan hondakin organiko
+        guztien jarraipena egingo dut,
+      - "Non mi ero resa conto della differenza che avrei potuto fare. Non vedo l'ora
+        di provarlo a casa: oggi terr\xF2 traccia di tutti i rifiuti organici che
+        produco durante la mia giornata, "
+      - "Nu mi-am dat seama c\xE2t de mare este diferen\u021Ba pe care o pot face.
+        Sunt at\xE2t de entuziasmat\u0103 s\u0103 \xEEncerc acest lucru acas\u0103
+        - ast\u0103zi, voi urm\u0103ri toate de\u0219eurile organice pe care le produc
+        pe parcursul zilei, "
+      - "Ne kadar b\xFCy\xFCk bir fark yaratabilece\u011Fimi fark etmemi\u015Ftim.
+        \u015Eimdi bunu evde denemek i\xE7in \xE7ok hevesliyim - Bug\xFCn, g\xFCn
+        boyunca \xFCretti\u011Fim t\xFCm organik at\u0131klar\u0131 takip edece\u011Fim, "
+      - "Nisem se zavedal, kako veliko spremembo lahko naredim. Tako zelo sem navdu\u0161ena,
+        da bom to poskusila doma - danes bom spremljala vse organske odpadke, ki
+        jih proizvedem \u010Dez dan, "
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: starting with breakfast. Why? Because every piece of organic waste has
+        value and can be turned into something useful. Let's start.
+      TermType: 0
+      Description: 
+      Languages:
+      - starting with breakfast. Why? Because every piece of organic waste has value
+        and can be turned into something useful. Let's start.
+      - "\u03BE\u03B5\u03BA\u03B9\u03BD\u03CE\u03BD\u03C4\u03B1\u03C2 \u03BC\u03B5
+        \u03C4\u03BF \u03C0\u03C1\u03C9\u03B9\u03BD\u03CC. \u0393\u03B9\u03B1\u03C4\u03AF;
+        \u0395\u03C0\u03B5\u03B9\u03B4\u03AE \u03BA\u03AC\u03B8\u03B5 \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03BA\u03CC
+        \u03B1\u03C0\u03CC\u03B2\u03BB\u03B7\u03C4\u03BF \u03AD\u03C7\u03B5\u03B9
+        \u03B1\u03BE\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF
+        \u03BD\u03B1 \u03BC\u03B5\u03C4\u03B1\u03C4\u03C1\u03B1\u03C0\u03B5\u03AF
+        \u03C3\u03B5 \u03BA\u03AC\u03C4\u03B9 \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03BF.
+        \u0391\u03C2 \u03BE\u03B5\u03BA\u03B9\u03BD\u03AE\u03C3\u03BF\u03C5\u03BC\u03B5."
+      - "empezando por el desayuno. \xBFPor qu\xE9? Porque cada residuo org\xE1nico
+        tiene valor y puede convertirse en algo \xFAtil. Empecemos."
+      - gosaritik hasita. Zergatik? Hondakin organiko bakoitzak balioa duelako eta
+        erabilgarria izan daitekeelako. Has gaitezen
+      - "a partire dalla colazione. Perch\xE9? Perch\xE9 ogni rifiuto organico ha
+        un valore e pu\xF2 essere trasformato in qualcosa di utile. Cominciamo."
+      - "\xEEncep\xE2nd cu micul dejun. De ce? Pentru c\u0103 fiecare de\u0219eu
+        organic are valoare \u0219i poate fi transformat \xEEn ceva util. S\u0103
+        \xEEncepem."
+      - "Kahvalt\u0131dan ba\u015Flayarak. Neden mi? \xC7\xFCnk\xFC her organik at\u0131\u011F\u0131n
+        bir de\u011Feri vard\u0131r ve faydal\u0131 bir \u015Feye d\xF6n\xFC\u015Ft\xFCr\xFClebilir.
+        Hadi ba\u015Flayal\u0131m."
+      - "za\u010Den\u0161i z zajtrkom. Zakaj? Ker ima vsak organski odpadek vrednost
+        in ga je mogo\u010De spremeniti v nekaj koristnega. Za\u010Dnimo."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Let s take a closer look at my breakfast today. I ve got a banana, some
+        eggs, and milk.By learning about where they come from and what happens after,
+      TermType: 0
+      Description: 
+      Languages:
+      - "Let\u2019s take a closer look at my breakfast today. I\u2019ve got a banana,
+        some eggs, and milk.By learning about where they come from and what happens
+        after,"
+      - "\u0391\u03C2 \u03C1\u03AF\u03BE\u03BF\u03C5\u03BC\u03B5 \u03BC\u03B9\u03B1
+        \u03C0\u03B9\u03BF \u03C0\u03C1\u03BF\u03C3\u03B5\u03BA\u03C4\u03B9\u03BA\u03AE
+        \u03BC\u03B1\u03C4\u03B9\u03AC \u03C3\u03C4\u03BF \u03C0\u03C1\u03C9\u03B9\u03BD\u03CC
+        \u03BC\u03BF\u03C5 \u03C3\u03AE\u03BC\u03B5\u03C1\u03B1. \u0388\u03C7\u03C9
+        \u03BC\u03B9\u03B1 \u03BC\u03C0\u03B1\u03BD\u03AC\u03BD\u03B1, \u03BC\u03B5\u03C1\u03B9\u03BA\u03AC
+        \u03B1\u03C5\u03B3\u03AC \u03BA\u03B1\u03B9 \u03B3\u03AC\u03BB\u03B1.\u039C\u03B1\u03B8\u03B1\u03AF\u03BD\u03BF\u03BD\u03C4\u03B1\u03C2
+        \u03B1\u03C0\u03CC \u03C0\u03BF\u03CD \u03C0\u03C1\u03BF\u03AD\u03C1\u03C7\u03BF\u03BD\u03C4\u03B1\u03B9
+        \u03BA\u03B1\u03B9 \u03C4\u03B9 \u03C3\u03C5\u03BC\u03B2\u03B1\u03AF\u03BD\u03B5\u03B9
+        \u03BC\u03B5\u03C4\u03AC,"
+      - "Echemos un vistazo a mi desayuno de hoy. Tengo un pl\xE1tano, unos huevos
+        y leche. Aprendiendo de d\xF3nde vienen y qu\xE9 pasa despu\xE9s,"
+      - 'Begira diezaiogun gaurko gosariari. Banana bat, arrautza batzuk eta esnea
+        ditut. Nondik datozen eta gero zer gertatzen den ikasten badugu, '
+      - "Diamo un'occhiata pi\xF9 da vicino alla mia colazione di oggi. Ho una banana,
+        delle uova e del latte. Imparando a conoscere la loro origine e cosa succede
+        dopo,"
+      - "S\u0103 ne uit\u0103m mai atent la micul meu dejun de ast\u0103zi. Am o
+        banan\u0103, c\xE2teva ou\u0103 \u0219i lapte. \xEEnv\u0103\u021B\xE2nd de
+        unde provin \u0219i ce se \xEEnt\xE2mpl\u0103 dup\u0103,"
+      - "Bug\xFCnk\xFC kahvalt\u0131ma daha yak\u0131ndan bakal\u0131m. Bir muzum,
+        biraz yumurtam ve s\xFCt\xFCm var. Bunlar\u0131n nereden geldi\u011Fini ve
+        sonras\u0131nda neler oldu\u011Funu \xF6\u011Frenerek,"
+      - "Poglejmo si podrobneje moj dana\u0161nji zajtrk. Imam banano, nekaj jajc
+        in mleko.Z u\u010Denjem o tem, od kod prihajajo in kaj se zgodi potem,"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: we can understand how to reduce waste and make sure nothing goes to waste
+      TermType: 0
+      Description: 
+      Languages:
+      - ' we can understand how to reduce waste and make sure nothing goes to waste.'
+      - " \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BC\u03B5 \u03BD\u03B1 \u03BA\u03B1\u03C4\u03B1\u03BB\u03AC\u03B2\u03BF\u03C5\u03BC\u03B5
+        \u03C0\u03CE\u03C2 \u03BD\u03B1 \u03BC\u03B5\u03B9\u03CE\u03C3\u03BF\u03C5\u03BC\u03B5
+        \u03C4\u03B1 \u03B1\u03C0\u03CC\u03B2\u03BB\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9
+        \u03BD\u03B1 \u03B4\u03B9\u03B1\u03C3\u03C6\u03B1\u03BB\u03AF\u03C3\u03BF\u03C5\u03BC\u03B5
+        \u03CC\u03C4\u03B9 \u03C4\u03AF\u03C0\u03BF\u03C4\u03B1 \u03B4\u03B5\u03BD
+        \u03C0\u03AC\u03B5\u03B9 \u03C7\u03B1\u03BC\u03AD\u03BD\u03BF."
+      - " podemos saber c\xF3mo reducir los residuos y asegurarnos de que nada se
+        desperdicia."
+      - hondakinak nola murriztu jakingo dugu eta ezer alferrik galtzen ez dela ziurtatuko
+        dugu.
+      - ' possiamo capire come ridurre gli sprechi e fare in modo che nulla vada
+        sprecato.'
+      - " putem \xEEn\u021Belege cum s\u0103 reducem de\u0219eurile \u0219i s\u0103
+        ne asigur\u0103m c\u0103 nimic nu se irose\u0219te."
+      - " at\u0131klar\u0131 nas\u0131l azaltaca\u011F\u0131m\u0131z\u0131 anlayabilir
+        ve hi\xE7bir \u015Feyin bo\u015Fa gitmedi\u011Finden emin olabiliriz."
+      - " razumemo, kako zmanj\u0161ati koli\u010Dino odpadkov in poskrbeti, da ni\u010D
+        ne gre v ni\u010D."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Great, i feel like i know more things already. Time for school!
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Great, i feel like i know more things already.
+
+        Time for school!'
+      - "\u03A5\u03C0\u03AD\u03C1\u03BF\u03C7\u03B1, \u03BD\u03B9\u03CE\u03B8\u03C9
+        \u03CC\u03C4\u03B9 \u03BE\u03AD\u03C1\u03C9 \u03AE\u03B4\u03B7 \u03C0\u03B5\u03C1\u03B9\u03C3\u03C3\u03CC\u03C4\u03B5\u03C1\u03B1
+        \u03C0\u03C1\u03AC\u03B3\u03BC\u03B1\u03C4\u03B1.\r\n\u038F\u03C1\u03B1 \u03B3\u03B9\u03B1
+        \u03C4\u03BF \u03C3\u03C7\u03BF\u03BB\u03B5\u03AF\u03BF!"
+      - "Genial, siento que ya s\xE9 m\xE1s cosas."
+      - Primeran, gauza gehiago dakidala sentitzen dut.
+      - " Fantastico, mi sembra di sapere gi\xE0 pi\xF9 cose.\r\n\xC8 ora di andare
+        a scuola!"
+      - "Grozav, simt c\u0103 \u0219tiu deja mai multe lucruri.\r\nE timpul pentru
+        \u0219coal\u0103!"
+      - "Harika, sanki daha fazla \u015Fey biliyormu\u015Fum gibi hissediyorum.\r\nOkul
+        zaman\u0131!"
+      - "Super, zdi se mi, da \u017Ee vem ve\u010D stvari.\r\n\u010Cas je za \u0161olo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Garbage
+      TermType: 0
+      Description: 
+      Languages:
+      - Garbage
+      - "\u0391\u03C0\u03BF\u03C1\u03C1\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1"
+      - Basura
+      - Zaborra
+      - Rifiuti
+      - Gunoi
+      - "\xC7\xF6p"
+      - Odpadki
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Recycle
+      TermType: 0
+      Description: 
+      Languages:
+      - Recycle
+      - "\u0391\u03BD\u03B1\u03BA\u03CD\u03BA\u03BB\u03C9\u03C3\u03B7"
+      - Reciclar
+      - Birziklatu
+      - Ricicla
+      - Reciclare
+      - "Geri d\xF6n\xFC\u015F\xFCm"
+      - Recikliranje
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Compost
+      TermType: 0
+      Description: 
+      Languages:
+      - Compost
+      - "\u039A\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7"
+      - Compostar
+      - Konpostatzea
+      - Compost
+      - Compost
+      - Kompost
+      - Kompostiranje
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Cardboard Milk carton
+      TermType: 0
+      Description: 
+      Languages:
+      - "cardboard milk \ncarton "
+      - "\u03BA\u03BF\u03C5\u03C4\u03AF \u03B3\u03AC\u03BB\u03B1\u03BA\u03C4\u03BF\u03C2
+        \n\u03B1\u03C0\u03CC \u03C7\u03B1\u03C1\u03C4\u03CC\u03BD\u03B9"
+      - "cart\xF3n Cart\xF3n de leche"
+      - Esne-kartoia
+      - ' Cartone del latte'
+      - ' cutie de carton cu lapte '
+      - "karton S\xFCt kutusu"
+      - "kartonska \u0161katla za mleko "
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Banana peel
+      TermType: 0
+      Description: 
+      Languages:
+      - 'banana peel '
+      - "\u03BC\u03C0\u03B1\u03BD\u03B1\u03BD\u03CC\u03C6\u03BB\u03BF\u03C5\u03B4\u03B1"
+      - "c\xE1scara de pl\xE1tano"
+      - banana-oskol
+      - ' Buccia di banana'
+      - "coaj\u0103 de banan\u0103 "
+      - "muz kabu\u011Fu"
+      - bananin olupek
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Apple core
+      TermType: 0
+      Description: 
+      Languages:
+      - "apple core\_"
+      - "\u03BA\u03BF\u03C5\u03BA\u03BF\u03CD\u03C4\u03C3\u03B9 \n\u03BC\u03AE\u03BB\u03BF\u03C5"
+      - "coraz\xF3n de manzana"
+      - sagarr-bihotz
+      - Torsolo di mela
+      - "miez de m\u0103r "
+      - "elma \xE7ekirde\u011Fi"
+      - "jabol\u010Dni ugrizek"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: juice box
+      TermType: 0
+      Description: 
+      Languages:
+      - juice box
+      - "\u03BA\u03BF\u03C5\u03C4\u03AC\u03BA\u03B9 \u03C7\u03C5\u03BC\u03BF\u03CD"
+      - caja de zumo
+      - zuku-kaxa
+      - Scatola di succo di frutta
+      - cutie de suc
+      - meyve suyu kutusu
+      - tetrapak soka
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: plastic bag
+      TermType: 0
+      Description: 
+      Languages:
+      - plastic bag
+      - "\u03C0\u03BB\u03B1\u03C3\u03C4\u03B9\u03BA\u03AE \n\u03C3\u03B1\u03BA\u03BF\u03CD\u03BB\u03B1"
+      - "bolsa de pl\xE1stico"
+      - plastikozko poltsa
+      - Sacchetto di plastica
+      - "pung\u0103 de plastic"
+      - "plastik po\u015Fet"
+      - "plasti\u010Dna vre\u010Dka"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Glass bottle
+      TermType: 0
+      Description: 
+      Languages:
+      - 'glass bottle '
+      - "\u03B3\u03C5\u03AC\u03BB\u03B9\u03BD\u03BF \u03BC\u03C0\u03BF\u03C5\u03BA\u03AC\u03BB\u03B9 "
+      - botella de vidrio
+      - beirazko botila
+      - Bottiglia di vetro
+      - "sticl\u0103 de sticl\u0103 "
+      - "cam \u015Fi\u015Fe"
+      - steklenica
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cheese
+      TermType: 0
+      Description: 
+      Languages:
+      - 'cheese '
+      - "\u03C4\u03C5\u03C1\u03AF "
+      - queso
+      - gazta
+      - Formaggio
+      - "br\xE2nz\u0103"
+      - peynir
+      - sir
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Aluminium foil
+      TermType: 0
+      Description: 
+      Languages:
+      - 'aluminium foil '
+      - "\u03B1\u03BB\u03BF\u03C5\u03BC\u03B9\u03BD\u03CC\u03C7\u03B1\u03C1\u03C4\u03BF"
+      - papel de aluminio
+      - aluminiozko paper
+      - Foglio di alluminio
+      - folie de aluminiu
+      - "al\xFCminyum folyo"
+      - aluminijasta folija
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: light bulb
+      TermType: 0
+      Description: 
+      Languages:
+      - 'light bulb '
+      - "\u03BB\u03AC\u03BC\u03C0\u03B1 "
+      - bombilla
+      - bonbilla
+      - Lampadina
+      - 'bec '
+      - ampul
+      - "\u017Earnica "
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Tea bag
+      TermType: 0
+      Description: 
+      Languages:
+      - tea bag
+      - "\u03C6\u03B1\u03BA\u03B5\u03BB\u03AC\u03BA\u03B9 \n\u03C4\u03C3\u03B1\u03B3\u03B9\u03BF\u03CD"
+      - "bolsa de t\xE9"
+      - te-poltsa
+      - "Bustina di t\xE8"
+      - "plicule\u021B de ceai"
+      - "\xE7ay po\u015Feti"
+      - "\u010Dajna vre\u010Dka"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Drag and drop the garbage in the correct bin
+      TermType: 0
+      Description: 
+      Languages:
+      - Drag and drop the garbage in the correct bin
+      - "\u03A3\u03CD\u03C1\u03B5\u03C4\u03B5 \u03BA\u03B1\u03B9 \u03C4\u03BF\u03C0\u03BF\u03B8\u03B5\u03C4\u03AE\u03C3\u03C4\u03B5
+        \u03C4\u03B1 \u03C3\u03BA\u03BF\u03C5\u03C0\u03AF\u03B4\u03B9\u03B1 \u03C3\u03C4\u03BF\u03BD
+        \u03C3\u03C9\u03C3\u03C4\u03CC \u03BA\u03AC\u03B4\u03BF"
+      - Arrastra y suelta la basura en el contenedor correcto
+      - Arrastatu eta askatu zaborra edukiontzi egokian.
+      - ' Trascinare e rilasciare i rifiuti nel cassonetto corretto.'
+      - "Drag and drop gunoiul \xEEn co\u0219ul de gunoi corect"
+      - "\xC7\xF6p\xFC do\u011Fru kutuya s\xFCr\xFCkleyip b\u0131rak\u0131n"
+      - "Povlecite in spustite smeti v ustrezen ko\u0161"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Outcome
+      TermType: 0
+      Description: 
+      Languages:
+      - Outcome
+      - "\u0391\u03C0\u03BF\u03C4\u03AD\u03BB\u03B5\u03C3\u03BC\u03B1"
+      - Resultado
+      - Emaitza
+      - Risultato
+      - Rezultat
+      - "Sonu\xE7"
+      - Rezultati
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Feedback
+      TermType: 0
+      Description: 
+      Languages:
+      - Feedback
+      - "\u0391\u03BD\u03B1\u03C4\u03C1\u03BF\u03C6\u03BF\u03B4\u03CC\u03C4\u03B7\u03C3\u03B7"
+      - Comentarios
+      - Iruzkinak
+      - Feedback
+      - Feedback
+      - Geri bildirim
+      - Povratne informacije
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Continue
+      TermType: 0
+      Description: 
+      Languages:
+      - Continue
+      - "\u03A3\u03C5\u03BD\u03B5\u03C7\u03AF\u03C3\u03C4\u03B5"
+      - Continuar
+      - Jarraitu
+      - Continua
+      - "Continu\u0103"
+      - Devam edin
+      - Nadaljuj
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Try Again
+      TermType: 0
+      Description: 
+      Languages:
+      - Try again
+      - "\u0394\u03BF\u03BA\u03B9\u03BC\u03AC\u03C3\u03C4\u03B5 \u03BE\u03B1\u03BD\u03AC"
+      - Volver a intentarlo
+      - Saiatu berriro
+      - Riprova
+      - "\xCEncearc\u0103 din nou"
+      - Tekrar deneyin
+      - Poskusite znova
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Try to complete the sentence choosing the correct words.
+      TermType: 0
+      Description: 
+      Languages:
+      - Try to complete the sentence choosing the correct words.
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Bananas grow in
+      TermType: 0
+      Description: 
+      Languages:
+      - Bananas grow in
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: are great for
+      TermType: 0
+      Description: 
+      Languages:
+      - ' are great for  '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: and their peels
+      TermType: 0
+      Description: 
+      Languages:
+      - and their peels
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: into
+      TermType: 0
+      Description: 
+      Languages:
+      - 'into  '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: turning them
+      TermType: 0
+      Description: 
+      Languages:
+      - turning them
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: soil!
+      TermType: 0
+      Description: 
+      Languages:
+      - soil!
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: nutrient-rich
+      TermType: 0
+      Description: 
+      Languages:
+      - nutrient-rich
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: tropical regions
+      TermType: 0
+      Description: 
+      Languages:
+      - tropical regions
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: composting
+      TermType: 0
+      Description: 
+      Languages:
+      - composting
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Eggshells are full of
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Eggshells are full of '
+      - "\u03A4\u03B1 \u03C4\u03C3\u03CC\u03C6\u03BB\u03B9\u03B1 \u03B1\u03C5\u03B3\u03CE\u03BD
+        \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B3\u03B5\u03BC\u03AC\u03C4\u03B1 "
+      - "Las c\xE1scaras de huevo est\xE1n llenas de "
+      - Arrautza-oskolak
+      - 'I gusci d''uovo sono pieni di '
+      - 'Cojile de ou sunt pline de '
+      - "Yumurta kabuklar\u0131"
+      - "Jaj\u010Dne lupine so polne "
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: help strengthen
+      TermType: 0
+      Description: 
+      Languages:
+      - 'help strengthen  '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: and can
+      TermType: 0
+      Description: 
+      Languages:
+      - and can
+      - "\u03BA\u03B1\u03B9 \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BD\u03B1 \u03B2\u03BF\u03B7\u03B8\u03AE\u03C3\u03B5\u03B9
+        \u03C3\u03C4\u03B7\u03BD \u03B5\u03BD\u03AF\u03C3\u03C7\u03C5\u03C3\u03B7"
+      - ' y pueden ayudar a fortalecer '
+      - z beteta daude, eta
+      - 'e possono aiutare a rafforzare '
+      - " \u0219i pot ajuta la consolidarea "
+      - doludur ve
+      - 'in lahko pomagajo okrepiti '
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: added to
+      TermType: 0
+      Description: 
+      Languages:
+      - 'added to  '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: when
+      TermType: 0
+      Description: 
+      Languages:
+      - 'when '
+      - "\u03CC\u03C4\u03B1\u03BD \u03C0\u03C1\u03BF\u03C3\u03C4\u03AF\u03B8\u03B5\u03C4\u03B1\u03B9
+        \u03C3\u03C4\u03BF"
+      - "cuando se a\xF1aden a"
+      - ' indartzen lagun dezakete'
+      - se aggiunti a
+      - "atunci c\xE2nd sunt ad\u0103ugate la "
+      - "eklendi\u011Finde"
+      - ", \u010De jih dodamo "
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: compost
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: plant roots
+      TermType: 0
+      Description: 
+      Languages:
+      - plant roots
+      - "\u03C1\u03AF\u03B6\u03B5\u03C2 \u03C6\u03C5\u03C4\u03CE\u03BD"
+      - "ra\xEDces de las plantas"
+      - landareen sustraiak
+      - le radici delle piante
+      - "r\u0103d\u0103cini de plante"
+      - "bitki k\xF6kleri"
+      - korenine rastlin
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: calcium
+      TermType: 0
+      Description: 
+      Languages:
+      - calcium
+      - "\u03B1\u03C3\u03B2\u03AD\u03C3\u03C4\u03B9\u03BF"
+      - calcio
+      - kaltzio
+      - calcio
+      - calciu
+      - kalsiyum
+      - kalcija
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Hey everyone! Great news! The school is starting a new composting program
+        to help reduce food waste and turn it into something useful for our garden.
+      TermType: 0
+      Description: 
+      Languages:
+      - Hey everyone! Great news! The school is starting a new composting program
+        to help reduce food waste and turn it into something useful for our garden.
+      - "\u0393\u03B5\u03B9\u03B1 \u03C3\u03B5 \u03CC\u03BB\u03BF\u03C5\u03C2! \u03A5\u03C0\u03AD\u03C1\u03BF\u03C7\u03B1
+        \u03BD\u03AD\u03B1! \u03A4\u03BF \u03C3\u03C7\u03BF\u03BB\u03B5\u03AF\u03BF
+        \u03BE\u03B5\u03BA\u03B9\u03BD\u03AC \u03AD\u03BD\u03B1 \u03BD\u03AD\u03BF
+        \u03C0\u03C1\u03CC\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1 \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7\u03C2
+        \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03BC\u03B5\u03B9\u03CE\u03C3\u03B5\u03B9
+        \u03C4\u03B1 \u03B1\u03C0\u03BF\u03C1\u03C1\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1
+        \u03C4\u03C1\u03BF\u03C6\u03AF\u03BC\u03C9\u03BD \u03BA\u03B1\u03B9 \u03BD\u03B1
+        \u03C4\u03B1 \u03BC\u03B5\u03C4\u03B1\u03C4\u03C1\u03AD\u03C8\u03B5\u03B9
+        \u03C3\u03B5 \u03BA\u03AC\u03C4\u03B9 \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03BF
+        \u03B3\u03B9\u03B1 \u03C4\u03BF\u03BD \u03BA\u03AE\u03C0\u03BF \u03BC\u03B1\u03C2. "
+      - "\xA1Hola a todos! \xA1Buenas noticias! La escuela est\xE1 empezando un nuevo
+        programa de compostaje para ayudar a reducir los residuos de alimentos y
+        convertirlos en algo \xFAtil para nuestro jard\xEDn. "
+      - 'Kaixo guztioi! Berri onak! Eskola konpostaje-programa berri bat hasten ari
+        da, janari-hondakinak murrizten laguntzeko eta gure baratzerako erabilgarria
+        izan dadin. '
+      - 'Ciao a tutti! Grandi notizie! La scuola sta avviando un nuovo programma
+        di compostaggio per ridurre i rifiuti alimentari e trasformarli in qualcosa
+        di utile per il nostro orto. '
+      - "Hei toat\u0103 lumea! Ve\u0219ti bune! \u0218coala \xEEncepe un nou program
+        de compostare pentru a ajuta la reducerea de\u0219eurilor alimentare \u0219i
+        la transformarea lor \xEEn ceva util pentru gr\u0103dina noastr\u0103. "
+      - "Hey millet! Haberler harika! Okulumuz, g\u0131da at\u0131klar\u0131n\u0131
+        azaltmak ve bah\xE7emiz i\xE7in yararl\u0131 bir \u015Feye d\xF6n\xFC\u015Ft\xFCrmek
+        amac\u0131yla yeni bir kompost program\u0131 ba\u015Flat\u0131yor. "
+      - "Hej, vsi! Odli\u010Dne novice! \u0160ola za\u010Denja nov program kompostiranja,
+        ki bo pomagal zmanj\u0161ati koli\u010Dino odpadne hrane in jo spremeniti
+        v nekaj koristnega za na\u0161 vrt. "
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: We re placing compost bins in a few key spots around the school, and
+        I need your help to make sure they re in the best places.
+      TermType: 0
+      Description: 
+      Languages:
+      - "We\u2019re placing compost bins in a few key spots around the school, and
+        I need your help to make sure they\u2019re in the best places. "
+      - "\u03A4\u03BF\u03C0\u03BF\u03B8\u03B5\u03C4\u03BF\u03CD\u03BC\u03B5 \u03BA\u03AC\u03B4\u03BF\u03C5\u03C2
+        \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7\u03C2
+        \u03C3\u03B5 \u03BC\u03B5\u03C1\u03B9\u03BA\u03AC \u03C3\u03B7\u03BC\u03B5\u03AF\u03B1-\u03BA\u03BB\u03B5\u03B9\u03B4\u03B9\u03AC
+        \u03B3\u03CD\u03C1\u03C9 \u03B1\u03C0\u03CC \u03C4\u03BF \u03C3\u03C7\u03BF\u03BB\u03B5\u03AF\u03BF
+        \u03BA\u03B1\u03B9 \u03C7\u03C1\u03B5\u03B9\u03AC\u03B6\u03BF\u03BC\u03B1\u03B9
+        \u03C4\u03B7 \u03B2\u03BF\u03AE\u03B8\u03B5\u03B9\u03AC \u03C3\u03B1\u03C2
+        \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03B2\u03B5\u03B2\u03B1\u03B9\u03C9\u03B8\u03CE
+        \u03CC\u03C4\u03B9 \u03B2\u03C1\u03AF\u03C3\u03BA\u03BF\u03BD\u03C4\u03B1\u03B9
+        \u03C3\u03C4\u03B1 \u03BA\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B1 \u03C3\u03B7\u03BC\u03B5\u03AF\u03B1. "
+      - "Vamos a colocar cubos de compostaje en algunos lugares clave del colegio,
+        y necesito tu ayuda para asegurarme de que est\xE1n en los mejores sitios. "
+      - Eskolaren inguruan funtsezkoak diren zenbait tokitan edukiontziak jartzen
+        ari gara, eta zure laguntza behar dut tokirik onenetan daudela ziurtatzeko.
+      - 'Stiamo posizionando dei contenitori per il compost in alcuni punti chiave
+        della scuola e ho bisogno del vostro aiuto per assicurarci che siano nei
+        posti migliori. '
+      - "Plas\u0103m containere de compost \xEEn c\xE2teva locuri cheie din \u0219coal\u0103
+        \u0219i am nevoie de ajutorul dvs. pentru a ne asigura c\u0103 sunt \xEEn
+        cele mai bune locuri. "
+      - "Okul \xE7evresindeki birka\xE7 kilit noktaya kompost kutular\u0131 yerle\u015Ftiriyoruz
+        ve bunlar\u0131n en iyi yerlerde oldu\u011Fundan emin olmak i\xE7in yard\u0131m\u0131n\u0131za
+        ihtiyac\u0131m var. "
+      - "Na nekaj klju\u010Dnih mestih po \u0161oli bomo postavili kompostnike, zato
+        potrebujem va\u0161o pomo\u010D, da se prepri\u010Damo, da so na najbolj\u0161ih
+        mestih. "
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Let s work together to keep our school clean and green
+      TermType: 0
+      Description: 
+      Languages:
+      - Let's work together to keep our school clean and green
+      - "\u0391\u03C2 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03C4\u03BF\u03CD\u03BC\u03B5
+        \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03B4\u03B9\u03B1\u03C4\u03B7\u03C1\u03AE\u03C3\u03BF\u03C5\u03BC\u03B5
+        \u03C4\u03BF \u03C3\u03C7\u03BF\u03BB\u03B5\u03AF\u03BF \u03BC\u03B1\u03C2
+        \u03BA\u03B1\u03B8\u03B1\u03C1\u03CC \u03BA\u03B1\u03B9 \u03C0\u03C1\u03AC\u03C3\u03B9\u03BD\u03BF"
+      - Trabajemos juntos para mantener nuestra escuela limpia y verde
+      - Elkarrekin lan egin dezagun gure ikastetxea garbi eta berde mantentzeko.
+      - Lavoriamo insieme per mantenere la nostra scuola pulita e verde
+      - "S\u0103 lucr\u0103m \xEEmpreun\u0103 pentru a men\u021Bine \u0219coala noastr\u0103
+        curat\u0103 \u0219i ecologic\u0103"
+      - "Okulumuzu temiz ve ye\u015Fil tutmak i\xE7in birlikte \xE7al\u0131\u015Fal\u0131m"
+      - "Skupaj poskrbimo, da bo na\u0161a \u0161ola \u010Dista in zelena"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Infographic 1
+      TermType: 5
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Ok great let's learn a few things.
+      TermType: 0
+      Description: 
+      Languages:
+      - Ok let's learn a few things
+      - "\u0395\u03BD\u03C4\u03AC\u03BE\u03B5\u03B9, \u03B1\u03C2 \u03BC\u03AC\u03B8\u03BF\u03C5\u03BC\u03B5
+        \u03BC\u03B5\u03C1\u03B9\u03BA\u03AC \u03C0\u03C1\u03AC\u03B3\u03BC\u03B1\u03C4\u03B1"
+      - Bien, aprendamos algunas cosas
+      - 
+      - Ok, impariamo un po' di cose
+      - "Bine, s\u0103 \xEEnv\u0103\u021B\u0103m c\xE2teva lucruri"
+      - "Tamam, birka\xE7 \u015Fey \xF6\u011Frenelim"
+      - "Ok, nau\u010Dimo se nekaj stvari"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Excellent, let's proceed and learn some more things
+      TermType: 0
+      Description: 
+      Languages:
+      - Excellent, let's proceed and learn some more things
+      - "\u0395\u03BE\u03B1\u03B9\u03C1\u03B5\u03C4\u03B9\u03BA\u03AC, \u03B1\u03C2
+        \u03C0\u03C1\u03BF\u03C7\u03C9\u03C1\u03AE\u03C3\u03BF\u03C5\u03BC\u03B5
+        \u03BA\u03B1\u03B9 \u03B1\u03C2 \u03BC\u03AC\u03B8\u03BF\u03C5\u03BC\u03B5
+        \u03BC\u03B5\u03C1\u03B9\u03BA\u03AC \u03B1\u03BA\u03CC\u03BC\u03B7 \u03C0\u03C1\u03AC\u03B3\u03BC\u03B1\u03C4\u03B1"
+      - "Excelente, sigamos adelante y aprendamos algunas cosas m\xE1s"
+      - Bikaina, jarrai dezagun aurrera eta ikas ditzagun beste gauza batzuk
+      - Eccellente, procediamo e impariamo altre cose.
+      - "Excelent, s\u0103 continu\u0103m \u0219i s\u0103 mai \xEEnv\u0103\u021B\u0103m
+        c\xE2teva lucruri"
+      - "Harika, devam edelim ve daha fazla \u015Fey \xF6\u011Frenelim"
+      - "Odli\u010Dno, nadaljujmo in se nau\u010Dimo \u0161e nekaj stvari"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Awesome, I ve learned so much already. Time to head to the park!
+      TermType: 0
+      Description: 
+      Languages:
+      - "Awesome, I\u2019ve learned so much already. Time to head to the park!"
+      - "\u03A6\u03BF\u03B2\u03B5\u03C1\u03CC, \u03AD\u03C7\u03C9 \u03AE\u03B4\u03B7
+        \u03BC\u03AC\u03B8\u03B5\u03B9 \u03C4\u03CC\u03C3\u03B1 \u03C0\u03BF\u03BB\u03BB\u03AC.
+        \u038F\u03C1\u03B1 \u03BD\u03B1 \u03C0\u03AC\u03C9 \u03C3\u03C4\u03BF \u03C0\u03AC\u03C1\u03BA\u03BF!"
+      - "Impresionante, ya he aprendido mucho. \xA1Es hora de ir al parque!"
+      - Ikaragarria, asko ikasi dut. Garaia da parkera joateko!
+      - "Fantastico, ho gi\xE0 imparato molto. \xC8 ora di andare al parco!"
+      - "Grozav, am \xEEnv\u0103\u021Bat deja at\xE2t de multe. E timpul s\u0103
+        mergem \xEEn parc!"
+      - "Harika, \u015Fimdiden \xE7ok \u015Fey \xF6\u011Frendim. Parka gitme zaman\u0131!"
+      - "Super, toliko sem se \u017Ee nau\u010Dil. \u010Cas je, da se odpravim v
+        park!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Cafeteria
+      TermType: 0
+      Description: 
+      Languages:
+      - Cafeteria
+      - "\u039A\u03C5\u03BB\u03B9\u03BA\u03B5\u03AF\u03BF"
+      - Comedor
+      - Jantokia
+      - Mensa
+      - "Cantin\u0103"
+      - Kafeterya
+      - Kavarna
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: School Garden
+      TermType: 0
+      Description: 
+      Languages:
+      - School Garden
+      - "\u03A0\u03C1\u03BF\u03B1\u03CD\u03BB\u03B9\u03BF"
+      - Huerto escolar
+      - Eskola-baratzea
+      - Giardino della scuola
+      - "Gr\u0103din\u0103 \u0219colar\u0103"
+      - "Okul Bah\xE7esi"
+      - "\u0160olski vrt"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Hallway near classrooms
+      TermType: 0
+      Description: 
+      Languages:
+      - Hallway near classrooms
+      - "\u0394\u03B9\u03AC\u03B4\u03C1\u03BF\u03BC\u03BF\u03C2 \u03BA\u03BF\u03BD\u03C4\u03AC
+        \u03C3\u03C4\u03B9\u03C2 \u03B1\u03AF\u03B8\u03BF\u03C5\u03C3\u03B5\u03C2
+        \u03B4\u03B9\u03B4\u03B1\u03C3\u03BA\u03B1\u03BB\u03AF\u03B1\u03C2"
+      - Pasillo cerca de las aulas
+      - Korridorea ikasgeletatik gertu
+      - Corridoio vicino alle aule
+      - "Hol l\xE2ng\u0103 s\u0103lile de clas\u0103"
+      - "S\u0131n\u0131flar\u0131n yak\u0131n\u0131ndaki koridor"
+      - "Hodnik v bli\u017Eini u\u010Dilnic"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Playground area
+      TermType: 0
+      Description: 
+      Languages:
+      - Playground area
+      - "\u03A0\u03B1\u03B9\u03B4\u03B9\u03BA\u03AE \u03C7\u03B1\u03C1\u03AC"
+      - Zona de recreo
+      - Jolastokia
+      - Area giochi
+      - "Loc de joac\u0103"
+      - "Oyun alan\u0131"
+      - "Obmo\u010Dje otro\u0161kega igri\u0161\u010Da"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: apple cores, banana peels, lettuce, etc
+      TermType: 0
+      Description: 
+      Languages:
+      - apple cores, banana peels, lettuce, etc
+      - "\u03BA\u03BF\u03C5\u03BA\u03BF\u03CD\u03C4\u03C3\u03B9\u03B1 \u03BC\u03AE\u03BB\u03C9\u03BD,
+        \u03C6\u03BB\u03BF\u03CD\u03B4\u03B5\u03C2 \u03BC\u03C0\u03B1\u03BD\u03B1\u03BD\u03CE\u03BD,
+        \u03BC\u03B1\u03C1\u03BF\u03CD\u03BB\u03B9\u03B1 \u03BA.\u03BB\u03C0."
+      - "corazones de manzana, c\xE1scaras de pl\xE1tano, lechuga, etc."
+      - sagar-bihotzak, banana-azalak, urazak, etab.
+      - torsoli di mela, bucce di banana, lattuga, ecc.
+      - "miezuri de mere, coji de banane, salat\u0103, etc"
+      - "elma \xE7ekirdekleri, muz kabuklar\u0131, marul vb."
+      - jedra jabolk, olupki banan, solata itd.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: napkins, food wrappers that can be composted, etc.
+      TermType: 0
+      Description: 
+      Languages:
+      - napkins, food wrappers that can be composted, etc.
+      - "\u03C7\u03B1\u03C1\u03C4\u03BF\u03C0\u03B5\u03C4\u03C3\u03AD\u03C4\u03B5\u03C2,
+        \u03C0\u03B5\u03C1\u03B9\u03C4\u03C5\u03BB\u03AF\u03B3\u03BC\u03B1\u03C4\u03B1
+        \u03C4\u03C1\u03BF\u03C6\u03AF\u03BC\u03C9\u03BD \u03C0\u03BF\u03C5 \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BD
+        \u03BD\u03B1 \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03B9\u03B7\u03B8\u03BF\u03CD\u03BD
+        \u03BA.\u03BB\u03C0"
+      - servilletas, envoltorios de comida compostables, etc.
+      - ezpainzapiak, janari konpostagarrien bilgarriak, etab.
+      - tovaglioli, involucri di cibo che possono essere compostati, ecc..
+      - "\u0219erve\u021Bele, ambalaje de alimente care pot fi compostate etc."
+      - "pe\xE7eteler, kompostlanabilen yiyecek ambalajlar\u0131 vb."
+      - "prti\u010Dki, ovitki hrane, ki jih je mogo\u010De kompostirati, itd."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: unused food scraps from lunch trays, leftovers, etc.
+      TermType: 0
+      Description: 
+      Languages:
+      - unused food scraps from lunch trays, leftovers, etc.
+      - "\u03B1\u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03AF\u03B7\u03C4\u03B1
+        \u03C5\u03C0\u03BF\u03BB\u03B5\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1 \u03C4\u03C1\u03BF\u03C6\u03AF\u03BC\u03C9\u03BD
+        \u03B1\u03C0\u03CC \u03B4\u03AF\u03C3\u03BA\u03BF\u03C5\u03C2 \u03BC\u03B5\u03C3\u03B7\u03BC\u03B5\u03C1\u03B9\u03B1\u03BD\u03BF\u03CD
+        \u03B3\u03B5\u03CD\u03BC\u03B1\u03C4\u03BF\u03C2, \u03B1\u03C0\u03BF\u03C6\u03AC\u03B3\u03B9\u03B1
+        \u03BA.\u03BB\u03C0."
+      - restos de comida no utilizados de bandejas de comida, sobras, etc.
+      - janari-erretiluetan, soberan eta abarretan erabiltzen ez diren janari-hondarrak.
+      - scarti di cibo inutilizzati dai vassoi del pranzo, avanzi di cibo, ecc.
+      - "resturi alimentare nefolosite din t\u0103vi\u021Bele de pr\xE2nz, resturi
+        etc."
+      - "\xF6\u011Fle yeme\u011Fi tepsilerinden kullan\u0131lmayan yiyecek art\u0131klar\u0131,
+        art\u0131klar vb."
+      - neuporabljene ostanke hrane s pladnjev za kosilo, ostanke hrane itd.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Drag and drop each compost bin to the location where it will be most
+        useful based on the type of organic waste that s generated in those areas.
+      TermType: 0
+      Description: 
+      Languages:
+      - "Drag and drop each  bin to the location where it will be most useful based
+        on the type of organic waste that\u2019s generated in those areas"
+      - "\u03A3\u03CD\u03C1\u03B5\u03C4\u03B5 \u03BA\u03B1\u03B9 \u03B1\u03C6\u03AE\u03C3\u03C4\u03B5
+        \u03BA\u03AC\u03B8\u03B5 \u03BA\u03AC\u03B4\u03BF \u03C3\u03C4\u03B7 \u03B8\u03AD\u03C3\u03B7
+        \u03CC\u03C0\u03BF\u03C5 \u03B8\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03B9\u03BF
+        \u03C7\u03C1\u03AE\u03C3\u03B9\u03BC\u03BF\u03C2 \u03BC\u03B5 \u03B2\u03AC\u03C3\u03B7
+        \u03C4\u03BF\u03BD \u03C4\u03CD\u03C0\u03BF \u03C4\u03C9\u03BD \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03BA\u03CE\u03BD
+        \u03B1\u03C0\u03BF\u03B2\u03BB\u03AE\u03C4\u03C9\u03BD \u03C0\u03BF\u03C5
+        \u03C0\u03B1\u03C1\u03AC\u03B3\u03BF\u03BD\u03C4\u03B1\u03B9 \u03C3\u03C4\u03B9\u03C2
+        \u03C3\u03C5\u03B3\u03BA\u03B5\u03BA\u03C1\u03B9\u03BC\u03AD\u03BD\u03B5\u03C2
+        \u03C0\u03B5\u03C1\u03B9\u03BF\u03C7\u03AD\u03C2."
+      - "Arrastra y suelta cada contenedor en el lugar donde ser\xE1 m\xE1s \xFAtil
+        en funci\xF3n del tipo de residuos org\xE1nicos que se generan en esas zonas"
+      - Arrastatu eta askatu edukiontzi bakoitza erabilgarria izango den lekuan,
+        eremu horietan sortzen diren hondakin organikoen arabera.
+      - " Trascina e rilascia ogni contenitore nel luogo in cui sar\xE0 pi\xF9 utile,
+        in base al tipo di rifiuti organici generati in quelle aree."
+      - "Trage\u021Bi \u0219i plasa\u021Bi fiecare pubel\u0103 \xEEn loca\u021Bia
+        \xEEn care va fi cea mai util\u0103, \xEEn func\u021Bie de tipul de de\u0219euri
+        organice generate \xEEn zonele respective"
+      - "Her kutuyu, o alanlarda \xFCretilen organik at\u0131k t\xFCr\xFCne g\xF6re
+        en yararl\u0131 olaca\u011F\u0131 yere s\xFCr\xFCkleyip b\u0131rak\u0131n"
+      - "Povlecite in spustite vsak zabojnik na mesto, kjer bo najbolj uporaben glede
+        na vrsto organskih odpadkov, ki nastajajo na teh obmo\u010Djih.\r\n"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Aluminum cans can be melted down and used to
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Aluminum cans can be melted down and used to '
+      - "\u03A4\u03B1 \u03BA\u03BF\u03C5\u03C4\u03B9\u03AC \u03B1\u03BB\u03BF\u03C5\u03BC\u03B9\u03BD\u03AF\u03BF\u03C5
+        \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BD \u03BD\u03B1 \u03BB\u03B9\u03CE\u03C3\u03BF\u03C5\u03BD
+        \u03BA\u03B1\u03B9 \u03BD\u03B1 \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03B7\u03B8\u03BF\u03CD\u03BD
+        \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03BA\u03B1\u03C4\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE
+        \u03B1\u03BD\u03C4\u03B9\u03BA\u03B5\u03B9\u03BC\u03AD\u03BD\u03C9\u03BD"
+      - "Las latas de aluminio pueden fundirse y utilizarse para fabricar art\xEDculos"
+      - Aluminiozko latak urtu egin daitezke eta artikuluak fabrikatzeko erabil daitezke
+      - Le lattine di alluminio possono essere fuse e utilizzate per produrre
+      - "Dozele de aluminiu pot fi topite \u0219i folosite pentru a produce articole"
+      - "Al\xFCminyum kutular eritilerek"
+      - "Aluminijaste plo\u010Devinke je mogo\u010De stopiti in jih uporabiti za
+        izdelavo"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: make
+      TermType: 0
+      Description: 
+      Languages:
+      - 'make   '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: items.
+      TermType: 0
+      Description: 
+      Languages:
+      - items.
+      - .
+      - "\xA1."
+      - .
+      - oggetti.
+      - .
+      - "\xFCr\xFCnler yapmak i\xE7in kullan\u0131labilir."
+      - izdelkov. S
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: for
+      TermType: 0
+      Description: 
+      Languages:
+      - for
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: can save enough energy to power a
+      TermType: 0
+      Description: 
+      Languages:
+      - 'can save enough energy to power a   '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: one
+      TermType: 0
+      Description: 
+      Languages:
+      - 'one '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: three hours!
+      TermType: 0
+      Description: 
+      Languages:
+      - three hours!
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: new
+      TermType: 0
+      Description: 
+      Languages:
+      - new
+      - "\u03BA\u03B1\u03B9\u03BD\u03BF\u03C5\u03C1\u03B9\u03C9\u03BD"
+      - nuevo
+      - berria
+      - nuovi
+      - Nou
+      - yeni
+      - novih
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Recycling
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Recycling '
+      - "\u0391\u03BD\u03B1\u03BA\u03C5\u03BA\u03BB\u03CE\u03BD\u03BF\u03BD\u03C4\u03B1\u03C2"
+      - Reciclar
+      - Birziklatu
+      - 'Riciclarne '
+      - Reciclare
+      - "Geri d\xF6n\xFC\u015F\xFCm"
+      - Recikliranjem
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: lightbulb
+      TermType: 0
+      Description: 
+      Languages:
+      - lightbulb
+      - "\u03BB\u03AC\u03BC\u03C0\u03B1 "
+      - bombillas nuevas
+      - bonbilla berriak
+      - lampadina
+      - 'bec '
+      - ampul
+      - "\u017Earnico"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Broken crayons are
+      TermType: 0
+      Description: 
+      Languages:
+      - Broken crayons are not
+      - "\u039F\u03B9 \u03C3\u03C0\u03B1\u03C3\u03BC\u03AD\u03BD\u03B5\u03C2 \u03BA\u03B7\u03C1\u03BF\u03BC\u03C0\u03BF\u03B3\u03B9\u03AD\u03C2
+        \u03B4\u03B5\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9"
+      - "Los l\xE1pices de colores rotos no se"
+      - Kolore hautsietako arkatzak ez dira
+      - ' I pastelli rotti non sono'
+      - Creioanele rupte nu sunt
+      - "K\u0131r\u0131k boya kalemleri"
+      - Polomljenih barvic ni
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: they can be
+      TermType: 0
+      Description: 
+      Languages:
+      - 'they can be   '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: into fun shapes or
+      TermType: 0
+      Description: 
+      Languages:
+      - 'into fun shapes or '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: donated for
+      TermType: 0
+      Description: 
+      Languages:
+      - 'donated for   '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: but
+      TermType: 0
+      Description: 
+      Languages:
+      - but
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: art
+      TermType: 0
+      Description: 
+      Languages:
+      - art
+      - "\u03BA\u03B1\u03BB\u03BB\u03B9\u03C4\u03B5\u03C7\u03BD\u03B9\u03BA\u03AD\u03C2"
+      - arte
+      - arte
+      - arte
+      - "art\u0103"
+      - sanat
+      - art
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: reused
+      TermType: 0
+      Description: 
+      Languages:
+      - reused
+      - "\u03B5\u03C0\u03B1\u03BD\u03B1\u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03B7\u03B8\u03BF\u03CD\u03BD"
+      - reutilizados
+      - berrerabiliak
+      - riutilizzati
+      - reutilizabil
+      - "yeniden kullan\u0131labilir"
+      - 'ponovno uporabimo in oblikujemo '
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: recyclable
+      TermType: 0
+      Description: 
+      Languages:
+      - recyclable
+      - "\u03B1\u03BD\u03B1\u03BA\u03C5\u03BA\u03BB\u03CE\u03C3\u03B9\u03BC\u03B5\u03C2"
+      - reciclable
+      - birziklagarria
+      - riciclabili
+      - reciclabil
+      - "geri d\xF6n\xFC\u015Ft\xFCr\xFClebilir"
+      - "mogo\u010De reciklirati."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Oh no, the park is such a mess! There s litter everywhere plastic bottles,
+        food scraps, and even candy wrappers.
+      TermType: 0
+      Description: 
+      Languages:
+      - "Oh no, the park is such a mess! There\u2019s litter everywhere\u2014plastic
+        bottles, food scraps, and even candy wrappers. "
+      - "\u03A9\u03C7 \u03CC\u03C7\u03B9, \u03C4\u03BF \u03C0\u03AC\u03C1\u03BA\u03BF
+        \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03CC\u03C3\u03BF \u03C7\u03AC\u03BB\u03B9\u03B1!
+        \u03A5\u03C0\u03AC\u03C1\u03C7\u03BF\u03C5\u03BD \u03C0\u03B1\u03BD\u03C4\u03BF\u03CD
+        \u03C3\u03BA\u03BF\u03C5\u03C0\u03AF\u03B4\u03B9\u03B1 - \u03C0\u03BB\u03B1\u03C3\u03C4\u03B9\u03BA\u03AC
+        \u03BC\u03C0\u03BF\u03C5\u03BA\u03AC\u03BB\u03B9\u03B1, \u03C5\u03C0\u03BF\u03BB\u03B5\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1
+        \u03C6\u03B1\u03B3\u03B7\u03C4\u03BF\u03CD, \u03B1\u03BA\u03CC\u03BC\u03B7
+        \u03BA\u03B1\u03B9 \u03C0\u03B5\u03C1\u03B9\u03C4\u03C5\u03BB\u03AF\u03B3\u03BC\u03B1\u03C4\u03B1
+        \u03B1\u03C0\u03CC \u03B3\u03BB\u03C5\u03BA\u03AC. "
+      - "Oh no, el parque est\xE1 hecho un asco. Hay basura por todas partes: botellas
+        de pl\xE1stico, restos de comida e incluso envoltorios de caramelos. "
+      - 'Oh ez, parkea hondamendi batean dago. Alde guztietatik dago zaborra: plastikozko
+        botilak, janari-hondarrak eta gozokien bilgarriak. '
+      - "Oh no, il parco \xE8 un vero disastro! Ci sono rifiuti ovunque: bottiglie
+        di plastica, residui di cibo e persino carte di caramelle. "
+      - "Oh, nu, parcul este o mizerie! Sunt gunoaie peste tot - sticle de plastic,
+        resturi de m\xE2ncare \u0219i chiar ambalaje de bomboane. "
+      - "Olamaz, park \xE7ok da\u011F\u0131n\u0131k! Her yerde \xE7\xF6pler var -
+        plastik \u015Fi\u015Feler, yiyecek art\u0131klar\u0131 ve hatta \u015Feker
+        ambalajlar\u0131. "
+      - "O ne, v parku je tak\u0161en nered! Povsod so smeti - plastenke, ostanki
+        hrane in celo ovitki sladkarij. "
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: This isn t just bad for the environment, I didn t realize how much of
+        a difference I could make. I m so pumped to try this at home now
+      TermType: 0
+      Description: 
+      Languages:
+      - "This isn\u2019t just bad for the environment, it\u2019s also harmful to
+        the animals and plants here."
+      - "\u0391\u03C5\u03C4\u03CC \u03B4\u03B5\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9
+        \u03BC\u03CC\u03BD\u03BF \u03BA\u03B1\u03BA\u03CC \u03B3\u03B9\u03B1 \u03C4\u03BF
+        \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD, \u03B1\u03BB\u03BB\u03AC
+        \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03B5\u03C0\u03B9\u03B2\u03BB\u03B1\u03B2\u03AD\u03C2
+        \u03B3\u03B9\u03B1 \u03C4\u03B1 \u03B6\u03CE\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B1
+        \u03C6\u03C5\u03C4\u03AC \u03B5\u03B4\u03CE."
+      - "Esto no s\xF3lo es malo para el medio ambiente, tambi\xE9n es perjudicial
+        para los animales y las plantas del lugar."
+      - Hori, ingurumenerako ez ezik, animalientzat eta landareentzat ere kaltegarria
+        da.
+      - "Questo non \xE8 solo dannoso per l'ambiente, ma anche per gli animali e
+        le piante presenti."
+      - "Acest lucru nu este r\u0103u doar pentru mediu, ci \u0219i pentru animalele
+        \u0219i plantele de aici."
+      - "Bu sadece \xE7evre i\xE7in k\xF6t\xFC de\u011Fil, ayn\u0131 zamanda buradaki
+        hayvanlar ve bitkiler i\xE7in de zararl\u0131."
+      - "To ni \u0161kodljivo le za okolje, ampak tudi za \u017Eivali in rastline."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Today, I m going to track all the organic waste I produce throughout
+        my day,
+      TermType: 0
+      Description: 
+      Languages:
+      - "Let\u2019s clean up and sort the waste properly so we can make this park
+        a beautiful, safe place again!"
+      - "\u0391\u03C2 \u03BA\u03B1\u03B8\u03B1\u03C1\u03AF\u03C3\u03BF\u03C5\u03BC\u03B5
+        \u03BA\u03B1\u03B9 \u03B1\u03C2 \u03C4\u03B1\u03BE\u03B9\u03BD\u03BF\u03BC\u03AE\u03C3\u03BF\u03C5\u03BC\u03B5
+        \u03C3\u03C9\u03C3\u03C4\u03AC \u03C4\u03B1 \u03B1\u03C0\u03BF\u03C1\u03C1\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1,
+        \u03CE\u03C3\u03C4\u03B5 \u03BD\u03B1 \u03BC\u03C0\u03BF\u03C1\u03AD\u03C3\u03BF\u03C5\u03BC\u03B5
+        \u03BD\u03B1 \u03BA\u03AC\u03BD\u03BF\u03C5\u03BC\u03B5 \u03B1\u03C5\u03C4\u03CC
+        \u03C4\u03BF \u03C0\u03AC\u03C1\u03BA\u03BF \u03BE\u03B1\u03BD\u03AC \u03AD\u03BD\u03B1
+        \u03CC\u03BC\u03BF\u03C1\u03C6\u03BF \u03BA\u03B1\u03B9 \u03B1\u03C3\u03C6\u03B1\u03BB\u03AD\u03C2
+        \u03BC\u03AD\u03C1\u03BF\u03C2!"
+      - Limpiemos y clasifiquemos bien los residuos para que este parque vuelva a
+        ser un lugar hermoso y seguro.
+      - Garbitu eta sailkatu ditzagun hondakinak, parke hau berriro leku polit eta
+        segurua izan dadin.
+      - Puliamo e differenziamo i rifiuti in modo corretto per rendere questo parco
+        di nuovo un luogo bello e sicuro!
+      - "Haide\u021Bi s\u0103 cur\u0103\u021B\u0103m \u0219i s\u0103 sort\u0103m
+        de\u0219eurile \xEEn mod corespunz\u0103tor, astfel \xEEnc\xE2t s\u0103 putem
+        face din nou din acest parc un loc frumos \u0219i sigur!"
+      - "Bu park\u0131 yeniden g\xFCzel ve g\xFCvenli bir yer haline getirebilmek
+        i\xE7in temizleyelim ve at\u0131klar\u0131 d\xFCzg\xFCn bir \u015Fekilde
+        ay\u0131ral\u0131m!"
+      - "O\u010Distimo in pravilno razvrstimo odpadke, da bo ta park spet lep in
+        varen!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Wow, look at this park now it s so clean and beautiful! You did an amazing
+        job helping out. Now that the hard work is done, let s take some time to
+      TermType: 0
+      Description: 
+      Languages:
+      - "Wow, look at this park now\u2014it\u2019s so clean and beautiful! You did
+        an amazing job helping out.  Now that the hard work is done, "
+      - "\u039F\u03C5\u03AC\u03BF\u03C5, \u03BA\u03BF\u03B9\u03C4\u03AC\u03BE\u03C4\u03B5
+        \u03B1\u03C5\u03C4\u03CC \u03C4\u03BF \u03C0\u03AC\u03C1\u03BA\u03BF \u03C4\u03CE\u03C1\u03B1
+        - \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03CC\u03C3\u03BF \u03BA\u03B1\u03B8\u03B1\u03C1\u03CC
+        \u03BA\u03B1\u03B9 \u03CC\u03BC\u03BF\u03C1\u03C6\u03BF! \u039A\u03AC\u03BD\u03B1\u03C4\u03B5
+        \u03BA\u03B1\u03C4\u03B1\u03C0\u03BB\u03B7\u03BA\u03C4\u03B9\u03BA\u03AE
+        \u03B4\u03BF\u03C5\u03BB\u03B5\u03B9\u03AC \u03B2\u03BF\u03B7\u03B8\u03CE\u03BD\u03C4\u03B1\u03C2. 
+        \u03A4\u03CE\u03C1\u03B1 \u03C0\u03BF\u03C5 \u03B7 \u03C3\u03BA\u03BB\u03B7\u03C1\u03AE
+        \u03B4\u03BF\u03C5\u03BB\u03B5\u03B9\u03AC \u03C4\u03B5\u03BB\u03B5\u03AF\u03C9\u03C3\u03B5, "
+      - "Vaya, mira este parque ahora, \xA1est\xE1 tan limpio y bonito! Has hecho
+        un trabajo incre\xEDble. Ahora que el trabajo duro est\xE1 hecho, "
+      - 'Hara, begira orain parke hau, hain garbi eta polita dago! Lan sinestezina
+        egin duzu. Lan gogorra eginda dagoenez, '
+      - "Wow, guardate questo parco ora: \xE8 cos\xEC pulito e bello! Avete fatto
+        un lavoro straordinario. Ora che il duro lavoro \xE8 finito, "
+      - "Uita\u021Bi-v\u0103 la acest parc acum - este at\xE2t de curat \u0219i frumos!
+        A\u021Bi f\u0103cut o treab\u0103 extraordinar\u0103 ajut\xE2nd.  Acum c\u0103
+        munca grea s-a terminat, "
+      - "Vay can\u0131na, \u015Fu parka bak \u015Fimdi\u2014\xE7ok temiz ve g\xFCzel!
+        Yard\u0131m ederek harika bir i\u015F \xE7\u0131kard\u0131n. Art\u0131k zor
+        i\u015F bitti\u011Fine g\xF6re, "
+      - "Vau, poglej ta park zdaj - tako \u010Dist in lep je! Odli\u010Dno ste pomagali. 
+        Zdaj, ko je te\u017Eko delo opravljeno, "
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: learn a few cool things about waste and how we can keep making eco-friendly
+        choices!
+      TermType: 0
+      Description: 
+      Languages:
+      - "let\u2019s take some time to learn a few cool things about waste and how
+        we can keep making eco-friendly choices!"
+      - "\u03B1\u03C2 \u03B1\u03C6\u03B9\u03B5\u03C1\u03CE\u03C3\u03BF\u03C5\u03BC\u03B5
+        \u03BB\u03AF\u03B3\u03BF \u03C7\u03C1\u03CC\u03BD\u03BF \u03B3\u03B9\u03B1
+        \u03BD\u03B1 \u03BC\u03AC\u03B8\u03BF\u03C5\u03BC\u03B5 \u03BC\u03B5\u03C1\u03B9\u03BA\u03AC
+        \u03C9\u03C1\u03B1\u03AF\u03B1 \u03C0\u03C1\u03AC\u03B3\u03BC\u03B1\u03C4\u03B1
+        \u03B3\u03B9\u03B1 \u03C4\u03B1 \u03B1\u03C0\u03CC\u03B2\u03BB\u03B7\u03C4\u03B1
+        \u03BA\u03B1\u03B9 \u03C0\u03CE\u03C2 \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BC\u03B5
+        \u03BD\u03B1 \u03C3\u03C5\u03BD\u03B5\u03C7\u03AF\u03C3\u03BF\u03C5\u03BC\u03B5
+        \u03BD\u03B1 \u03BA\u03AC\u03BD\u03BF\u03C5\u03BC\u03B5 \u03C6\u03B9\u03BB\u03B9\u03BA\u03AD\u03C2
+        \u03C0\u03C1\u03BF\u03C2 \u03C4\u03BF \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD
+        \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AD\u03C2!"
+      - "vamos a tomarnos un tiempo para aprender algunas cosas interesantes sobre
+        los residuos y c\xF3mo podemos seguir tomando decisiones ecol\xF3gicas!"
+      - denbora hartuko dugu hondakinei buruzko gauza interesgarri batzuk ikasteko
+        eta erabaki ekologikoak hartzen jarraitzeko!
+      - prendiamoci un po' di tempo per imparare alcune cose interessanti sui rifiuti
+        e su come possiamo continuare a fare scelte eco-compatibili!
+      - "haide\u021Bi s\u0103 ne facem timp s\u0103 \xEEnv\u0103\u021B\u0103m c\xE2teva
+        lucruri interesante despre de\u0219euri \u0219i despre cum putem continua
+        s\u0103 facem alegeri ecologice!"
+      - "at\u0131klar ve \xE7evre dostu se\xE7imler yapmaya nas\u0131l devam edebilece\u011Fimiz
+        hakk\u0131nda birka\xE7 harika \u015Fey \xF6\u011Frenmek i\xE7in biraz zaman
+        ay\u0131ral\u0131m!"
+      - "si vzemimo nekaj \u010Dasa in se nau\u010Dimo nekaj zanimivih stvari o odpadkih
+        in o tem, kako lahko \u0161e naprej sprejemamo okolju prijazne odlo\u010Ditve!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Infogrpahic 2
+      TermType: 5
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: The park looks amazing now. Perfect for a picnic! Now, let s choose the
+        most eco-friendly items to enjoy our time here in the park
+      TermType: 0
+      Description: 
+      Languages:
+      - "The park looks amazing now. Perfect for a picnic! Now, let\u2019s choose
+        the most eco-friendly items to enjoy our time here in the park"
+      - "\u03A4\u03BF \u03C0\u03AC\u03C1\u03BA\u03BF \u03C6\u03B1\u03AF\u03BD\u03B5\u03C4\u03B1\u03B9
+        \u03BA\u03B1\u03C4\u03B1\u03C0\u03BB\u03B7\u03BA\u03C4\u03B9\u03BA\u03CC
+        \u03C4\u03CE\u03C1\u03B1. \u0399\u03B4\u03B1\u03BD\u03B9\u03BA\u03CC \u03B3\u03B9\u03B1
+        \u03C0\u03B9\u03BA\u03BD\u03AF\u03BA! \u03A4\u03CE\u03C1\u03B1, \u03B1\u03C2
+        \u03B5\u03C0\u03B9\u03BB\u03AD\u03BE\u03BF\u03C5\u03BC\u03B5 \u03C4\u03B1
+        \u03C0\u03B9\u03BF \u03C6\u03B9\u03BB\u03B9\u03BA\u03AC \u03C0\u03C1\u03BF\u03C2
+        \u03C4\u03BF \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD
+        \u03B1\u03BD\u03C4\u03B9\u03BA\u03B5\u03AF\u03BC\u03B5\u03BD\u03B1 \u03B3\u03B9\u03B1
+        \u03BD\u03B1 \u03B1\u03C0\u03BF\u03BB\u03B1\u03CD\u03C3\u03BF\u03C5\u03BC\u03B5
+        \u03C4\u03BF \u03C7\u03C1\u03CC\u03BD\u03BF \u03BC\u03B1\u03C2 \u03B5\u03B4\u03CE
+        \u03C3\u03C4\u03BF \u03C0\u03AC\u03C1\u03BA\u03BF"
+      - "El parque tiene ahora un aspecto incre\xEDble. \xA1Perfecto para un picnic!
+        Ahora, vamos a elegir los art\xEDculos m\xE1s ecol\xF3gicos para disfrutar
+        de nuestro tiempo en el parque"
+      - Parkeak alderdi sinestezina du orain. Perfektua piknika baterako! Orain,
+        artikulu ekologikoenak aukeratuko ditugu parkean dugun denboraz gozatzeko.
+      - "Il parco ha un aspetto fantastico. Perfetto per un picnic! Ora scegliamo
+        gli oggetti pi\xF9 eco-compatibili per goderci il nostro tempo nel parco"
+      - "Parcul arat\u0103 uimitor acum. Perfect pentru un picnic! Acum, s\u0103
+        alegem cele mai ecologice articole pentru a ne bucura de timpul petrecut
+        aici, \xEEn parc"
+      - "Park \u015Fimdi harika g\xF6r\xFCn\xFCyor. Piknik yapmak i\xE7in m\xFCkemmel!
+        \u015Eimdi, parkta ge\xE7irdi\u011Fimiz zaman\u0131n tad\u0131n\u0131 \xE7\u0131karmak
+        i\xE7in en \xE7evre dostu \xFCr\xFCnleri se\xE7elim"
+      - "Park je zdaj videti \u010Dudovito. Kot nala\u0161\u010D za piknik! Zdaj
+        pa izberimo najbolj okolju prijazne predmete, s katerimi bomo lahko u\u017Eivali
+        v parku."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Great job! You ve made some fantastic eco-friendly choices.
+      TermType: 0
+      Description: 
+      Languages:
+      - Great job! You've made some fantastic eco-friendly choices
+      - "\u03A3\u03C0\u03BF\u03C5\u03B4\u03B1\u03AF\u03B1 \u03B4\u03BF\u03C5\u03BB\u03B5\u03B9\u03AC!
+        \u0388\u03C7\u03B5\u03C4\u03B5 \u03BA\u03AC\u03BD\u03B5\u03B9 \u03BC\u03B5\u03C1\u03B9\u03BA\u03AD\u03C2
+        \u03C6\u03B1\u03BD\u03C4\u03B1\u03C3\u03C4\u03B9\u03BA\u03AD\u03C2 \u03C6\u03B9\u03BB\u03B9\u03BA\u03AD\u03C2
+        \u03C0\u03C1\u03BF\u03C2 \u03C4\u03BF \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD
+        \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AD\u03C2"
+      - "Buen trabajo. Has tomado unas decisiones ecol\xF3gicas fant\xE1sticas"
+      - 
+      - Ottimo lavoro! Avete fatto delle scelte ecologiche fantastiche
+      - "Bun\u0103 treab\u0103! A\u021Bi f\u0103cut ni\u0219te alegeri eco-friendly
+        fantastice"
+      - "Harika bir i\u015F \xE7\u0131karm\u0131\u015Fs\u0131n\u0131z! Harika \xE7evre
+        dostu se\xE7imler yapm\u0131\u015Fs\u0131n\u0131z."
+      - "Odli\u010Dno delo! Sprejeli ste nekaj fantasti\u010Dnih okolju prijaznih
+        odlo\u010Ditev."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Now, let s take a look at your report to see how well you did
+      TermType: 0
+      Description: 
+      Languages:
+      - Now, let's take a look at your report to see how well you did
+      - "\u03A4\u03CE\u03C1\u03B1, \u03B1\u03C2 \u03C1\u03AF\u03BE\u03BF\u03C5\u03BC\u03B5
+        \u03BC\u03B9\u03B1 \u03BC\u03B1\u03C4\u03B9\u03AC \u03C3\u03C4\u03B7\u03BD
+        \u03AD\u03BA\u03B8\u03B5\u03C3\u03AE \u03C3\u03B1\u03C2 \u03B3\u03B9\u03B1
+        \u03BD\u03B1 \u03B4\u03BF\u03CD\u03BC\u03B5 \u03C0\u03CC\u03C3\u03BF \u03BA\u03B1\u03BB\u03AC
+        \u03C4\u03B1 \u03C0\u03AE\u03B3\u03B1\u03C4\u03B5."
+      - Ahora, echemos un vistazo a tu informe para ver lo bien que lo has hecho
+      - 
+      - Ora, diamo un'occhiata al vostro rapporto per vedere quanto siete stati bravi
+      - "Acum, s\u0103 arunc\u0103m o privire la raportul dvs. pentru a vedea c\xE2t
+        de bine v-a\u021Bi descurcat"
+      - "\u015Eimdi, ne kadar iyi yapt\u0131\u011F\u0131n\u0131z\u0131 g\xF6rmek
+        i\xE7in raporunuza bir g\xF6z atal\u0131m"
+      - "Poglejmo si va\u0161e poro\u010Dilo in preverimo, kako dobro ste se odrezali."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Paper Coffee Cup
+      TermType: 0
+      Description: 
+      Languages:
+      - Paper Coffee Cup
+      - "\u03A7\u03AC\u03C1\u03C4\u03B9\u03BD\u03BF \u03BA\u03CD\u03C0\u03B5\u03BB\u03BB\u03BF
+        \u03BA\u03B1\u03C6\u03AD"
+      - "Taza de caf\xE9 de papel"
+      - Kafe-katilua
+      - "Tazza da caff\xE8 in carta"
+      - "Cea\u0219c\u0103 de cafea din h\xE2rtie"
+      - "Ka\u011F\u0131t Kahve Kupas\u0131"
+      - Papirnata skodelica za kavo
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Orange Peel
+      TermType: 0
+      Description: 
+      Languages:
+      - Orange Peel
+      - "\u03A6\u03BB\u03BF\u03CD\u03B4\u03B1 \u03C0\u03BF\u03C1\u03C4\u03BF\u03BA\u03B1\u03BB\u03B9\u03BF\u03CD"
+      - "C\xE1scara de naranja"
+      - Laranja-oskola
+      - Buccia d'arancia
+      - "Coaj\u0103 de portocal\u0103"
+      - "Portakal Kabu\u011Fu"
+      - "Pomaran\u010Dni olupek"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Plastic Straw
+      TermType: 0
+      Description: 
+      Languages:
+      - Plastic Straw
+      - "\u03A0\u03BB\u03B1\u03C3\u03C4\u03B9\u03BA\u03CC \u03BA\u03B1\u03BB\u03B1\u03BC\u03AC\u03BA\u03B9"
+      - "Pajita de pl\xE1stico"
+      - Plastikozko lastoa
+      - Cannuccia di plastica
+      - Pai de plastic
+      - Plastik Pipet
+      - "Plasti\u010Dna slama"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Soda Can
+      TermType: 0
+      Description: 
+      Languages:
+      - Soda Can
+      - "\u039A\u03BF\u03C5\u03C4\u03AF \u03C3\u03CC\u03B4\u03B1\u03C2"
+      - Lata de refresco
+      - Freskagarri-lata
+      - Lattina di soda
+      - "Can\u0103 de sifon"
+      - Soda Kutusu
+      - "Plo\u010Devinka s sodavico"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Pizza Box
+      TermType: 0
+      Description: 
+      Languages:
+      - Pizza Box
+      - "\u039A\u03BF\u03C5\u03C4\u03AF \u03C0\u03AF\u03C4\u03C3\u03B1\u03C2"
+      - Caja de pizza
+      - Pizza-kaxa
+      - Scatola della pizza
+      - Cutie de pizza
+      - Pizza Kutusu
+      - "\u0160katla za pico"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Chocolate Wrapper
+      TermType: 0
+      Description: 
+      Languages:
+      - Chocolate Wrapper
+      - "\u03A0\u03B5\u03C1\u03B9\u03C4\u03CD\u03BB\u03B9\u03B3\u03BC\u03B1 \u03C3\u03BF\u03BA\u03BF\u03BB\u03AC\u03C4\u03B1\u03C2"
+      - Envoltorio de chocolate
+      - Txokolatezko bilgarria
+      - Involucro di cioccolato
+      - "\xCEnveli\u0219 de ciocolat\u0103"
+      - "\xC7ikolata Ambalaj\u0131"
+      - "Ovitek \u010Dokolade"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Eggshells
+      TermType: 0
+      Description: 
+      Languages:
+      - Eggshells
+      - "\u039A\u03B5\u03BB\u03CD\u03C6\u03B7 \u03B1\u03C5\u03B3\u03CE\u03BD"
+      - "C\xE1scaras de huevo"
+      - Arrautza-oskolak
+      - Gusci d'uovo
+      - Coji de ou
+      - "Yumurta Kabuklar\u0131"
+      - "Jaj\u010Dne lupine"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Magazine
+      TermType: 0
+      Description: 
+      Languages:
+      - Magazine
+      - "\u03A0\u03B5\u03C1\u03B9\u03BF\u03B4\u03B9\u03BA\u03CC"
+      - Revista
+      - Aldizkaria
+      - Rivista
+      - "Revist\u0103"
+      - Dergi
+      - Revije
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Broken Ceramic Plate
+      TermType: 0
+      Description: 
+      Languages:
+      - Broken Ceramic Plate
+      - "\u03A3\u03C0\u03B1\u03C3\u03BC\u03AD\u03BD\u03BF \u03BA\u03B5\u03C1\u03B1\u03BC\u03B9\u03BA\u03CC
+        \u03C0\u03B9\u03AC\u03C4\u03BF"
+      - "Plato de cer\xE1mica roto"
+      - Zeramikazko plater hautsia
+      - Piatto di ceramica rotto
+      - "Plac\u0103 ceramic\u0103 spart\u0103"
+      - "K\u0131r\u0131k Seramik Tabak"
+      - "Razbita kerami\u010Dna plo\u0161\u010Da"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Chewing Gum
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Chewing Gum '
+      - "\u03A4\u03C3\u03AF\u03C7\u03BB\u03B1 "
+      - Chicle
+      - Txiklea
+      - 'Gomma da masticare '
+      - "Gum\u0103 de mestecat"
+      - "Sak\u0131z"
+      - "\u017Dve\u010Dilni gumi"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Reusable Water Bottle
+      TermType: 0
+      Description: 
+      Languages:
+      - Reusable Water Bottle
+      - "\u0395\u03C0\u03B1\u03BD\u03B1\u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03BF\u03CD\u03BC\u03B5\u03BD\u03B1
+        \u03BC\u03C0\u03BF\u03C5\u03BA\u03AC\u03BB\u03B9\u03B1 \u03BD\u03B5\u03C1\u03BF\u03CD"
+      - Botella de agua reutilizable
+      - Ur-botila berrerabilgarria
+      - Bottiglia d'acqua riutilizzabile
+      - "Sticlu\u021B\u0103 de ap\u0103 reutilizabil\u0103"
+      - "Tekrar kullan\u0131labilir su \u015Fi\u015Fesi"
+      - "Stekleni\u010Dka za vodo za ve\u010Dkratno uporabo"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Plastic Water Bottles
+      TermType: 0
+      Description: 
+      Languages:
+      - Plastic Water Bottles
+      - "\u03A0\u03BB\u03B1\u03C3\u03C4\u03B9\u03BA\u03AC \u03BC\u03C0\u03BF\u03C5\u03BA\u03AC\u03BB\u03B9\u03B1
+        \u03BD\u03B5\u03C1\u03BF\u03CD"
+      - "Botellas de pl\xE1stico"
+      - Plastikozko botilak
+      - Bottiglie d'acqua di plastica
+      - "Sticle de ap\u0103 din plastic"
+      - "Plastik su \u015Fi\u015Feleri"
+      - "Plasti\u010Dne plastenke za vodo"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Next
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Redo
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Paper Napkins
+      TermType: 0
+      Description: 
+      Languages:
+      - Cloth Napkins
+      - "\u03A7\u03B1\u03C1\u03C4\u03BF\u03C0\u03B5\u03C4\u03C3\u03AD\u03C4\u03B5\u03C2"
+      - Servilletas de papel
+      - Paperezko ezpainzapiak
+      - Tovaglioli di carta
+      - "\u0218erve\u021Bele de h\xE2rtie"
+      - "Ka\u011F\u0131t pe\xE7eteler"
+      - "Papirnati prti\u010Dki"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Reusable Cutlery
+      TermType: 0
+      Description: 
+      Languages:
+      - Reusable Cutlery
+      - "\u0395\u03C0\u03B1\u03BD\u03B1\u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03BF\u03CD\u03BC\u03B5\u03BD\u03B1
+        \u03BC\u03B1\u03C7\u03B1\u03B9\u03C1\u03BF\u03C0\u03AE\u03C1\u03BF\u03C5\u03BD\u03B1"
+      - Cubiertos reutilizables
+      - Mahai-tresna berrerabilgarriak
+      - Posate riutilizzabili
+      - "Tac\xE2muri reutilizabile"
+      - "Tekrar kullan\u0131labilir \xE7atal b\u0131\xE7ak tak\u0131m\u0131"
+      - "jedilni pribor za ve\u010Dkratno uporabo"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Plastic Cutlery
+      TermType: 0
+      Description: 
+      Languages:
+      - Plastic Cutlery
+      - "\u03A0\u03BB\u03B1\u03C3\u03C4\u03B9\u03BA\u03AC \u03BC\u03B1\u03C7\u03B1\u03B9\u03C1\u03BF\u03C0\u03AF\u03C1\u03BF\u03C5\u03BD\u03B1"
+      - "Cubiertos de pl\xE1stico"
+      - Plastikozko mahai-tresnak
+      - Posate di plastica
+      - "Tac\xE2muri din plastic"
+      - "Plastik \xE7atal b\u0131\xE7ak tak\u0131m\u0131"
+      - "Plasti\u010Dni jedilni pribor"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Plastic Shopping Bag
+      TermType: 0
+      Description: 
+      Languages:
+      - Plastic Shopping Bag
+      - "\u03A0\u03BB\u03B1\u03C3\u03C4\u03B9\u03BA\u03AE \u03C3\u03B1\u03BA\u03BF\u03CD\u03BB\u03B1
+        \u03B3\u03B9\u03B1 \u03C8\u03CE\u03BD\u03B9\u03B1"
+      - "Bolsas de pl\xE1stico para la compra"
+      - Erosteko plastikozko poltsak
+      - Borsa della spesa in plastica
+      - "Pung\u0103 de cump\u0103r\u0103turi din plastic"
+      - "Plastik al\u0131\u015Fveri\u015F \xE7antas\u0131"
+      - "Plasti\u010Dna nakupovalna vre\u010Dka"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Tote Bag
+      TermType: 0
+      Description: 
+      Languages:
+      - Tote Bag
+      - "\u03A4\u03C3\u03AC\u03BD\u03C4\u03B1 Tote"
+      - Bolsa de la compra
+      - Erosketa-poltsa
+      - Borsa di tessuto
+      - "Geant\u0103"
+      - "Tote \xE7anta"
+      - "Vre\u010Dka za prenos posode"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Make the right choice
+      TermType: 0
+      Description: 
+      Languages:
+      - Make the right choice
+      - "\u039A\u03AC\u03BD\u03C4\u03B5 \u03C4\u03B7 \u03C3\u03C9\u03C3\u03C4\u03AE
+        \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AE"
+      - Elige bien
+      - Ondo aukeratu
+      - Fai la scelta giusta
+      - "Face\u021Bi alegerea corect\u0103"
+      - "Do\u011Fru se\xE7imi yap\u0131n"
+      - Pravilna izbira
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Download
+      TermType: 0
+      Description: 
+      Languages:
+      - Donwload
+      - "\u039C\u03B5\u03C4\u03B1\u03C6\u03BF\u03C1\u03C4\u03CE\u03C3\u03C4\u03B5"
+      - Descargar
+      - Deskargatu
+      - Scarica
+      - "Descarc\u0103"
+      - "\u0130ndir"
+      - Donwload
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Play Again
+      TermType: 0
+      Description: 
+      Languages:
+      - Play again
+      - "\u03A0\u03B1\u03AF\u03BE\u03C4\u03B5 \u03BE\u03B1\u03BD\u03AC"
+      - Volver a jugar
+      - Berriro jokatu
+      - Gioca di nuovo
+      - "Joac\u0103 din nou"
+      - Tekrar oynat
+      - Ponovno predvajajte
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Personal Feedback
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: You've successfully kept your carbon footprint below 5 kg CO2 today!
+        Your eco-friendly choices, like composting, recycling, and reducing wast,are
+        making a real difference. Keep up the great work and continue being a sustainability
+        champion
+      TermType: 0
+      Description: 
+      Languages:
+      - "You've successfully kept your carbon footprint below 5 kg CO\u2082 today! 
+        Your eco-friendly choices, like composting, recycling, and reducing wast,are
+        making a real difference. Keep up the great work and continue being a sustainability
+        champio"
+      - "\u0388\u03C7\u03B5\u03C4\u03B5 \u03B4\u03B9\u03B1\u03C4\u03B7\u03C1\u03AE\u03C3\u03B5\u03B9
+        \u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03CE\u03C2 \u03C4\u03BF \u03B1\u03C0\u03BF\u03C4\u03CD\u03C0\u03C9\u03BC\u03B1
+        \u03AC\u03BD\u03B8\u03C1\u03B1\u03BA\u03B1 \u03BA\u03AC\u03C4\u03C9 \u03B1\u03C0\u03CC
+        5 kg CO\u2082 \u03C3\u03AE\u03BC\u03B5\u03C1\u03B1!  \u039F\u03B9 \u03C6\u03B9\u03BB\u03B9\u03BA\u03AD\u03C2
+        \u03C0\u03C1\u03BF\u03C2 \u03C4\u03BF \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD
+        \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AD\u03C2 \u03C3\u03B1\u03C2, \u03CC\u03C0\u03C9\u03C2
+        \u03B7 \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7,
+        \u03B7 \u03B1\u03BD\u03B1\u03BA\u03CD\u03BA\u03BB\u03C9\u03C3\u03B7 \u03BA\u03B1\u03B9
+        \u03B7 \u03BC\u03B5\u03AF\u03C9\u03C3\u03B7 \u03C4\u03C9\u03BD \u03B1\u03C0\u03BF\u03C1\u03C1\u03B9\u03BC\u03BC\u03AC\u03C4\u03C9\u03BD,
+        \u03BA\u03AC\u03BD\u03BF\u03C5\u03BD \u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE
+        \u03B4\u03B9\u03B1\u03C6\u03BF\u03C1\u03AC. \u03A3\u03C5\u03BD\u03B5\u03C7\u03AF\u03C3\u03C4\u03B5
+        \u03C4\u03B7 \u03C3\u03C0\u03BF\u03C5\u03B4\u03B1\u03AF\u03B1 \u03B4\u03BF\u03C5\u03BB\u03B5\u03B9\u03AC
+        \u03BA\u03B1\u03B9 \u03C3\u03C5\u03BD\u03B5\u03C7\u03AF\u03C3\u03C4\u03B5
+        \u03BD\u03B1 \u03B5\u03AF\u03C3\u03C4\u03B5 \u03C0\u03C1\u03C9\u03C4\u03B1\u03B8\u03BB\u03B7\u03C4\u03AD\u03C2
+        \u03C4\u03B7\u03C2 \u03B2\u03B9\u03C9\u03C3\u03B9\u03BC\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2."
+      - "Hoy has conseguido mantener tu huella de carbono por debajo de los 5 kg
+        de CO\u2082. Tus decisiones ecol\xF3gicas, como el compostaje, el reciclaje
+        y la reducci\xF3n de residuos, est\xE1n marcando una verdadera diferencia.
+        Sigue trabajando as\xED de bien y contin\xFAa siendo un campe\xF3n de la
+        sostenibilidad."
+      - Gaur, lortu duzu zure karbono-aztarna 5 kg-tik behera mantentzea. Zure erabaki
+        ekologikoak, hala nola konpostajea, birziklatzea eta hondakinen murrizketa,
+        benetako desberdintasuna markatzen ari dira. Horrela lan egiten jarraitzen
+        du, eta iraunkortasunaren txapelduna izaten jarraitzen du.
+      - "Oggi siete riusciti a mantenere la vostra impronta di carbonio sotto i 5
+        kg di CO\u2082! Le vostre scelte ecologiche, come il compostaggio, il riciclaggio
+        e la riduzione degli sprechi, stanno facendo la differenza. Continuate a
+        fare un ottimo lavoro e continuate a essere dei campioni di sostenibilit\xE0."
+      - "A\u021Bi reu\u0219it s\u0103 v\u0103 men\u021Bine\u021Bi amprenta de carbon
+        sub 5 kg CO\u2082 ast\u0103zi!  Alegerile tale ecologice, cum ar fi compostarea,
+        reciclarea \u0219i reducerea de\u0219eurilor, fac o diferen\u021B\u0103 real\u0103.
+        Continua\u021Bi s\u0103 face\u021Bi treab\u0103 bun\u0103 \u0219i continua\u021Bi
+        s\u0103 fi\u021Bi un campion al sustenabilit\u0103\u021Bii"
+      - "Karbon ayak izinizi 5 kg'\u0131n alt\u0131nda tutmay\u0131 ba\u015Fard\u0131n\u0131z
+        CO\u2082 bug\xFCn! Kompostlama, geri d\xF6n\xFC\u015F\xFCm ve at\u0131klar\u0131
+        azaltma gibi \xE7evre dostu se\xE7imleriniz ger\xE7ek bir fark yarat\u0131yor.
+        Harika \xE7al\u0131\u015Fmalar\u0131n\u0131z\u0131 s\xFCrd\xFCr\xFCn ve s\xFCrd\xFCr\xFClebilirlik
+        \u015Fampiyonu olmaya devam edin"
+      - "Danes ste svoj oglji\u010Dni odtis uspe\u0161no zadr\u017Eali pod 5 kg CO\u2082! 
+        Va\u0161e okolju prijazne odlo\u010Ditve, kot so kompostiranje, recikliranje
+        in zmanj\u0161evanje koli\u010Dine odpadkov, prina\u0161ajo resni\u010Dne
+        spremembe. Nadaljujte z odli\u010Dnim delom in bodite \u0161e naprej prvaki
+        v trajnostnem razvoju."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: 'NAME:'
+      TermType: 0
+      Description: 
+      Languages:
+      - 'NAME:'
+      - "\u039F\u039D\u039F\u039C\u0391:"
+      - 'NOMBRE:'
+      - 
+      - 'NOME:'
+      - 'NUME:'
+      - 'ADI:'
+      - 'IME IN PRIIMEK:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: STAGE HOME
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Home:
+
+        Drag and drop various household waste items into the correct
+        bins: compost, recycling, or garbage.
+
+        Complete sentences about food
+        waste to learn how organic materials can be repurposed.'
+      - "\u03A3\u03C0\u03AF\u03C4\u03B9:\r\n\u03A3\u03CD\u03C1\u03B5\u03C4\u03B5
+        \u03BA\u03B1\u03B9 \u03B1\u03C6\u03AE\u03C3\u03C4\u03B5 \u03B4\u03B9\u03AC\u03C6\u03BF\u03C1\u03B1
+        \u03BF\u03B9\u03BA\u03B9\u03B1\u03BA\u03AC \u03B1\u03C0\u03BF\u03C1\u03C1\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1
+        \u03C3\u03C4\u03BF\u03C5\u03C2 \u03C3\u03C9\u03C3\u03C4\u03BF\u03CD\u03C2
+        \u03BA\u03AC\u03B4\u03BF\u03C5\u03C2: \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7,
+        \u03B1\u03BD\u03B1\u03BA\u03CD\u03BA\u03BB\u03C9\u03C3\u03B7 \u03AE \u03C3\u03BA\u03BF\u03C5\u03C0\u03AF\u03B4\u03B9\u03B1.\r\n\u03A3\u03C5\u03BC\u03C0\u03BB\u03B7\u03C1\u03CE\u03C3\u03C4\u03B5
+        \u03C0\u03C1\u03BF\u03C4\u03AC\u03C3\u03B5\u03B9\u03C2 \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC
+        \u03BC\u03B5 \u03C4\u03B1 \u03B1\u03C0\u03CC\u03B2\u03BB\u03B7\u03C4\u03B1
+        \u03C4\u03C1\u03BF\u03C6\u03AF\u03BC\u03C9\u03BD \u03B3\u03B9\u03B1 \u03BD\u03B1
+        \u03BC\u03AC\u03B8\u03B5\u03C4\u03B5 \u03C0\u03CE\u03C2 \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BD
+        \u03BD\u03B1 \u03B5\u03C0\u03B1\u03BD\u03B1\u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03B7\u03B8\u03BF\u03CD\u03BD
+        \u03C4\u03B1 \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03BA\u03AC \u03C5\u03BB\u03B9\u03BA\u03AC."
+      - "En casa:\r\nArrastra y suelta varios residuos dom\xE9sticos en los cubos
+        correctos: compostaje, reciclaje o basura.\r\nCompleta las frases sobre los
+        residuos de alimentos para aprender c\xF3mo se pueden reutilizar los materiales
+        org\xE1nicos."
+      - 'Etxean: Etxeko hainbat hondakin arrastatzen eta askatzen ditu kubo egokietan:
+        konpostajea, birziklatzea edo zaborra. Elikagaien hondakinei buruzko esaldiak
+        osatzen ditu material organikoak nola berrerabil daitezkeen ikasteko.'
+      - ' Casa:
+
+        Trascinate i vari rifiuti domestici nei contenitori corretti:
+        compost, riciclaggio o spazzatura.
+
+        Completare le frasi sui rifiuti
+        alimentari per imparare come i materiali organici possono essere riutilizzati.'
+      - "\u201EAcas\u0103:\r\nTrage\u021Bi \u0219i plasa\u021Bi diverse de\u0219euri
+        menajere \xEEn containerele corecte: compost, reciclare sau gunoi.\r\nCompleta\u021Bi
+        propozi\u021Bii despre de\u0219eurile alimentare pentru a afla cum pot fi
+        refolosite materialele organice."
+      - "Ev:\r\n\xC7e\u015Fitli evsel at\u0131k \xF6\u011Felerini do\u011Fru kutulara
+        s\xFCr\xFCkleyip b\u0131rak\u0131n: kompost, geri d\xF6n\xFC\u015F\xFCm veya
+        \xE7\xF6p.\r\nOrganik malzemelerin nas\u0131l yeniden kullan\u0131labilece\u011Fini
+        \xF6\u011Frenmek i\xE7in yiyecek at\u0131\u011F\u0131yla ilgili c\xFCmleleri
+        tamamlay\u0131n."
+      - "Dom:\r\nVlecite in spustite razli\u010Dne gospodinjske odpadke v ustrezne
+        zabojnike: za kompost, recikliranje ali smeti.\r\nDopolnite stavke o odpadni
+        hrani in se nau\u010Dite, kako lahko organske materiale ponovno uporabimo."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: STAGE SCHOOL
+      TermType: 0
+      Description: 
+      Languages:
+      - 'School:
+
+        Help place composting and recycling bins in the best locations
+        (cafeteria, school garden, playground, and hallway).
+
+        Answer questions
+        about managing waste at school to deepen your understanding of composting
+        and recycling.
+
+'
+      - "\u03A3\u03C7\u03BF\u03BB\u03B5\u03AF\u03BF:\r\n\u0392\u03BF\u03B7\u03B8\u03AE\u03C3\u03C4\u03B5
+        \u03BD\u03B1 \u03C4\u03BF\u03C0\u03BF\u03B8\u03B5\u03C4\u03AE\u03C3\u03B5\u03C4\u03B5
+        \u03C4\u03BF\u03C5\u03C2 \u03BA\u03AC\u03B4\u03BF\u03C5\u03C2 \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7\u03C2
+        \u03BA\u03B1\u03B9 \u03B1\u03BD\u03B1\u03BA\u03CD\u03BA\u03BB\u03C9\u03C3\u03B7\u03C2
+        \u03C3\u03C4\u03B9\u03C2 \u03BA\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B5\u03C2
+        \u03B8\u03AD\u03C3\u03B5\u03B9\u03C2 (\u03BA\u03B1\u03C6\u03B5\u03C4\u03AD\u03C1\u03B9\u03B1,
+        \u03C0\u03C1\u03BF\u03B1\u03CD\u03BB\u03B9\u03BF, \u03C0\u03B1\u03B9\u03B4\u03B9\u03BA\u03AE
+        \u03C7\u03B1\u03C1\u03AC \u03BA\u03B1\u03B9 \u03B4\u03B9\u03AC\u03B4\u03C1\u03BF\u03BC\u03BF\u03C2).\r\n\u0391\u03C0\u03B1\u03BD\u03C4\u03AE\u03C3\u03C4\u03B5
+        \u03C3\u03B5 \u03B5\u03C1\u03C9\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2 \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC
+        \u03BC\u03B5 \u03C4\u03B7 \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7
+        \u03C4\u03C9\u03BD \u03B1\u03C0\u03BF\u03B2\u03BB\u03AE\u03C4\u03C9\u03BD
+        \u03C3\u03C4\u03BF \u03C3\u03C7\u03BF\u03BB\u03B5\u03AF\u03BF \u03B3\u03B9\u03B1
+        \u03BD\u03B1 \u03B5\u03BC\u03B2\u03B1\u03B8\u03CD\u03BD\u03B5\u03C4\u03B5
+        \u03C3\u03C4\u03B7\u03BD \u03BA\u03B1\u03C4\u03B1\u03BD\u03CC\u03B7\u03C3\u03B7
+        \u03C4\u03B7\u03C2 \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7\u03C2
+        \u03BA\u03B1\u03B9 \u03C4\u03B7\u03C2 \u03B1\u03BD\u03B1\u03BA\u03CD\u03BA\u03BB\u03C9\u03C3\u03B7\u03C2."
+      - "En la escuela:\r\nAyudar a colocar los cubos de compostaje y reciclaje en
+        los mejores lugares (comedor, jard\xEDn escolar, patio de recreo y pasillo).\r\nResponde
+        a preguntas sobre la gesti\xF3n de residuos en el colegio para profundizar
+        en el compostaje y el reciclaje."
+      - 'Eskolan: Konpostajeko eta birziklatzeko ontziak leku onenetan (jantokia,
+        eskolako lorategia, jolastokia eta korridorea) jartzen laguntzea. Ikastetxeko
+        hondakinen kudeaketari buruzko galderei erantzuten die konpostajean eta birziklatzean
+        sakontzeko.'
+      - 'Scuola:
+
+        Aiutate a collocare i contenitori per il compostaggio e
+        il riciclaggio nelle posizioni migliori (mensa, giardino della scuola, parco
+        giochi e corridoio).
+
+        Rispondere alle domande sulla gestione dei
+        rifiuti a scuola per approfondire la comprensione del compostaggio e del
+        riciclaggio.'
+      - "\u0218coal\u0103:\r\nAjuta\u021Bi la amplasarea pubelelor de compostare
+        \u0219i reciclare \xEEn cele mai bune locuri (cantin\u0103, gr\u0103dina
+        \u0219colii, loc de joac\u0103 \u0219i hol).\r\nR\u0103spunde\u021Bi la \xEEntreb\u0103ri
+        despre gestionarea de\u0219eurilor la \u0219coal\u0103 pentru a aprofunda
+        cuno\u0219tin\u021Bele despre compostare \u0219i reciclare."
+      - "Okul:\r\nKompost ve geri d\xF6n\xFC\u015F\xFCm kutular\u0131n\u0131 en iyi
+        yerlere (kafeterya, okul bah\xE7esi, oyun alan\u0131 ve koridor) yerle\u015Ftirmeye
+        yard\u0131mc\u0131 olun.\r\nKompost ve geri d\xF6n\xFC\u015F\xFCm hakk\u0131ndaki
+        anlay\u0131\u015F\u0131n\u0131z\u0131 derinle\u015Ftirmek i\xE7in okulda
+        at\u0131k y\xF6netimiyle ilgili sorular\u0131 yan\u0131tlay\u0131n."
+      - "\u0160ola:\r\nPomagajte postaviti posode za kompostiranje in recikliranje
+        na najbolj\u0161a mesta (jedilnica, \u0161olski vrt, igri\u0161\u010De in
+        hodnik).\r\nOdgovorite na vpra\u0161anja o ravnanju z odpadki v \u0161oli,
+        da poglobite svoje razumevanje kompostiranja in recikliranja."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: STAGE PARK
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Park:
+
+        Clean up litter scattered around the park by sorting items
+        (like plastic bottles, food scraps, and candy wrappers) into the correct
+        bins.
+
+        Pack for a picnic by selecting eco-friendly items and making
+        sustainable choices for managing leftovers.'
+      - "\u03A0\u03AC\u03C1\u03BA\u03BF:\r\n\u039A\u03B1\u03B8\u03B1\u03C1\u03AF\u03C3\u03C4\u03B5
+        \u03C4\u03B1 \u03C3\u03BA\u03BF\u03C5\u03C0\u03AF\u03B4\u03B9\u03B1 \u03C0\u03BF\u03C5
+        \u03B2\u03C1\u03AF\u03C3\u03BA\u03BF\u03BD\u03C4\u03B1\u03B9 \u03B4\u03B9\u03AC\u03C3\u03C0\u03B1\u03C1\u03C4\u03B1
+        \u03C3\u03C4\u03BF \u03C0\u03AC\u03C1\u03BA\u03BF, \u03C4\u03B1\u03BE\u03B9\u03BD\u03BF\u03BC\u03CE\u03BD\u03C4\u03B1\u03C2
+        \u03B1\u03BD\u03C4\u03B9\u03BA\u03B5\u03AF\u03BC\u03B5\u03BD\u03B1 (\u03CC\u03C0\u03C9\u03C2
+        \u03C0\u03BB\u03B1\u03C3\u03C4\u03B9\u03BA\u03AC \u03BC\u03C0\u03BF\u03C5\u03BA\u03AC\u03BB\u03B9\u03B1,
+        \u03C5\u03C0\u03BF\u03BB\u03B5\u03AF\u03BC\u03BC\u03B1\u03C4\u03B1 \u03C4\u03C1\u03BF\u03C6\u03CE\u03BD
+        \u03BA\u03B1\u03B9 \u03C0\u03B5\u03C1\u03B9\u03C4\u03C5\u03BB\u03AF\u03B3\u03BC\u03B1\u03C4\u03B1
+        \u03B3\u03BB\u03C5\u03BA\u03CE\u03BD) \u03C3\u03C4\u03BF\u03C5\u03C2 \u03C3\u03C9\u03C3\u03C4\u03BF\u03CD\u03C2
+        \u03BA\u03AC\u03B4\u03BF\u03C5\u03C2.\r\n\u03A0\u03C1\u03BF\u03B5\u03C4\u03BF\u03B9\u03BC\u03B1\u03C3\u03C4\u03B5\u03AF\u03C4\u03B5
+        \u03B3\u03B9\u03B1 \u03C0\u03B9\u03BA\u03BD\u03AF\u03BA \u03B5\u03C0\u03B9\u03BB\u03AD\u03B3\u03BF\u03BD\u03C4\u03B1\u03C2
+        \u03B1\u03BD\u03C4\u03B9\u03BA\u03B5\u03AF\u03BC\u03B5\u03BD\u03B1 \u03C6\u03B9\u03BB\u03B9\u03BA\u03AC
+        \u03C0\u03C1\u03BF\u03C2 \u03C4\u03BF \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD
+        \u03BA\u03B1\u03B9 \u03BA\u03AC\u03BD\u03BF\u03BD\u03C4\u03B1\u03C2 \u03B2\u03B9\u03CE\u03C3\u03B9\u03BC\u03B5\u03C2
+        \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AD\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B7
+        \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7 \u03C4\u03C9\u03BD
+        \u03C0\u03B5\u03C1\u03B9\u03C3\u03C3\u03B5\u03C5\u03BC\u03AC\u03C4\u03C9\u03BD"
+      - "Parque:\r\nLimpia la basura esparcida por el parque clasificando los objetos
+        (como botellas de pl\xE1stico, restos de comida y envoltorios de caramelos)
+        en las papeleras correctas.\r\nHaz la maleta para un picnic seleccionando
+        art\xEDculos ecol\xF3gicos y tomando decisiones sostenibles para gestionar
+        las sobras."
+      - 'Parkea: Parkeak sakabanatutako zaborra garbitzen du objektuak (plastikozko
+        botilak, janari-hondarrak eta gozokien bilgarriak) paperontzi egokietan sailkatuz.
+        Egin maleta piknika baterako, artikulu ekologikoak hautatuz eta sobrak kudeatzeko
+        erabaki iraunkorrak hartuz.'
+      - 'Parco:
+
+        Ripulite i rifiuti sparsi nel parco, differenziando gli
+        oggetti (come bottiglie di plastica, scarti di cibo e carte di caramelle)
+        negli appositi contenitori.
+
+        Preparare un picnic scegliendo articoli
+        ecologici e facendo scelte sostenibili per la gestione degli avanzi.'
+      - "Parc:\r\nCur\u0103\u021Ba\u021Bi gunoiul \xEEmpr\u0103\u0219tiat prin parc
+        tri\xE2nd obiectele (cum ar fi sticlele de plastic, resturile alimentare
+        \u0219i ambalajele de bomboane) \xEEn pubelele potrivite.\r\n\xCEmpacheta\u021Bi
+        pentru un picnic select\xE2nd articole ecologice \u0219i f\u0103c\xE2nd alegeri
+        durabile pentru gestionarea resturilor.\u201D"
+      - "Park:\r\nPark\u0131n etraf\u0131na da\u011F\u0131lm\u0131\u015F \xE7\xF6pleri,
+        \xF6\u011Feleri (plastik \u015Fi\u015Feler, yiyecek art\u0131klar\u0131 ve
+        \u015Feker ambalajlar\u0131 gibi) do\u011Fru kutulara ay\u0131rarak temizleyin.\r\n\xC7evre
+        dostu \xF6\u011Feler se\xE7erek ve art\u0131klar\u0131 y\xF6netmek i\xE7in
+        s\xFCrd\xFCr\xFClebilir se\xE7imler yaparak piknik i\xE7in paket yap\u0131n."
+      - "Park:\r\nV parku o\u010Distite smeti, ki so raztresene po parku, tako da
+        predmete (kot so plastenke, ostanki hrane in ovitki sladkarij) razvrstite
+        v ustrezne ko\u0161e.\r\nPakirajte za piknik tako, da izberete okolju prijazne
+        predmete in se trajnostno odlo\u010Dite za ravnanje z ostanki hrane."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Pause Menu
+      TermType: 0
+      Description: 
+      Languages:
+      - Pause Menu
+      - "\u039C\u03B5\u03BD\u03BF\u03CD \u03C0\u03B1\u03CD\u03C3\u03B7\u03C2"
+      - "Men\xFA Pausa"
+      - "Eten menua\r"
+      - Menu Pausa
+      - "Meniu pauz\u0103"
+      - "Duraklat Men\xFCs\xFC"
+      - Meni Prekinitev
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Time Played
+      TermType: 0
+      Description: 
+      Languages:
+      - Time Played
+      - "\u03A7\u03C1\u03CC\u03BD\u03BF\u03C2 \u03C0\u03B1\u03B9\u03C7\u03BD\u03B9\u03B4\u03B9\u03BF\u03CD"
+      - Tiempo jugado
+      - "Denbora Jolasa\r"
+      - Tempo di gioco
+      - Timp jucat
+      - Oynanan Zaman
+      - "\u010Cas igranja"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Player
+      TermType: 0
+      Description: 
+      Languages:
+      - Player
+      - "\u03A0\u03B1\u03AF\u03BA\u03C4\u03B7\u03C2"
+      - Jugador
+      - Jokalari
+      - Giocatore
+      - "Juc\u0103tor"
+      - Oyuncu
+      - Igralec
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Resume
+      TermType: 0
+      Description: 
+      Languages:
+      - Continue
+      - "\u03A3\u03C5\u03BD\u03AD\u03C7\u03B5\u03B9\u03B1"
+      - Continuar
+      - Jarraitu
+      - Continua
+      - "Continua\u021Bi"
+      - Devam et
+      - "\u017Divljenjepis"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Here will be the instructions of the game
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Pause
+      TermType: 0
+      Description: 
+      Languages:
+      - Pause
+      - "\u03A0\u03B1\u03CD\u03C3\u03B7"
+      - Pausa
+      - Etenaldia
+      - Pausa
+      - "Pauz\u0103"
+      - Duraklat
+      - Pavza
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Your eco-friendly choices will make a big difference in the world. Keep
+        it up and continue spreading the word about sustainability!
+      TermType: 0
+      Description: 
+      Languages:
+      - Your eco-friendly choices will make a big difference in the world. Keep it
+        up and continue spreading the word about sustainability!
+      - "\u039F\u03B9 \u03C6\u03B9\u03BB\u03B9\u03BA\u03AD\u03C2 \u03C0\u03C1\u03BF\u03C2
+        \u03C4\u03BF \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD
+        \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AD\u03C2 \u03C3\u03B1\u03C2 \u03B8\u03B1
+        \u03BA\u03AC\u03BD\u03BF\u03C5\u03BD \u03BC\u03B5\u03B3\u03AC\u03BB\u03B7
+        \u03B4\u03B9\u03B1\u03C6\u03BF\u03C1\u03AC \u03C3\u03C4\u03BF\u03BD \u03BA\u03CC\u03C3\u03BC\u03BF.
+        \u03A3\u03C5\u03BD\u03B5\u03C7\u03AF\u03C3\u03C4\u03B5 \u03AD\u03C4\u03C3\u03B9
+        \u03BA\u03B1\u03B9 \u03C3\u03C5\u03BD\u03B5\u03C7\u03AF\u03C3\u03C4\u03B5
+        \u03BD\u03B1 \u03B4\u03B9\u03B1\u03B4\u03AF\u03B4\u03B5\u03C4\u03B5 \u03C4\u03B7
+        \u03BB\u03AD\u03BE\u03B7 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B1\u03B5\u03B9\u03C6\u03BF\u03C1\u03AF\u03B1!"
+      - "Tus elecciones ecol\xF3gicas marcar\xE1n una gran diferencia en el mundo.
+        Sigue as\xED y contin\xFAa difundiendo el mensaje de la sostenibilidad."
+      - Zure hauteskunde ekologikoek alde handia markatuko dute munduan. Horrela
+        jarraitzen du eta jasangarritasunaren mezua zabaltzen jarraitzen du.
+      - "Le vostre scelte ecologiche faranno una grande differenza nel mondo. Continuate
+        cos\xEC e continuate a diffondere il motto della sostenibilit\xE0!"
+      - "Alegerile tale ecologice vor face o mare diferen\u021B\u0103 \xEEn lume.
+        \u021Aine\u021Bi-o tot a\u0219a \u0219i continua\u021Bi s\u0103 r\u0103sp\xE2ndi\u021Bi
+        vorba despre durabilitate!"
+      - "\xC7evre dostu se\xE7imleriniz d\xFCnyada b\xFCy\xFCk bir fark yaratacak.
+        Devam edin ve s\xFCrd\xFCr\xFClebilirlik hakk\u0131nda bilgi yaymaya devam
+        edin!"
+      - "S svojimi okolju prijaznimi odlo\u010Ditvami boste mo\u010Dno spremenili
+        svet. Vztrajajte in \u0161e naprej raz\u0161irjajte besedo o trajnosti!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Nice effort! It looks like there's still some room to grow in your knowledge
+        of composting and recycling
+      TermType: 0
+      Description: 
+      Languages:
+      - Nice effort! It looks like there's still some room to grow in your knowledge
+        of composting and recycling
+      - "\u03A9\u03C1\u03B1\u03AF\u03B1 \u03C0\u03C1\u03BF\u03C3\u03C0\u03AC\u03B8\u03B5\u03B9\u03B1!
+        \u03A6\u03B1\u03AF\u03BD\u03B5\u03C4\u03B1\u03B9 \u03CC\u03C4\u03B9 \u03C5\u03C0\u03AC\u03C1\u03C7\u03B5\u03B9
+        \u03B1\u03BA\u03CC\u03BC\u03B1 \u03C0\u03B5\u03C1\u03B9\u03B8\u03CE\u03C1\u03B9\u03BF
+        \u03B1\u03BD\u03AC\u03C0\u03C4\u03C5\u03BE\u03B7\u03C2 \u03C4\u03C9\u03BD
+        \u03B3\u03BD\u03CE\u03C3\u03B5\u03CE\u03BD \u03C3\u03B1\u03C2 \u03C3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AC
+        \u03BC\u03B5 \u03C4\u03B7\u03BD \u03BA\u03BF\u03BC\u03C0\u03BF\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7
+        \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03B1\u03BD\u03B1\u03BA\u03CD\u03BA\u03BB\u03C9\u03C3\u03B7."
+      - "\xA1Buen trabajo! Parece que tus conocimientos sobre compostaje y reciclaje
+        a\xFAn pueden mejorar."
+      - Lan ona! Badirudi konpostajeari eta birziklatzeari buruzko zure ezagutzak
+        hobetu daitezkeela oraindik.
+      - ' Un bell''impegno! Sembra che ci sia ancora spazio per crescere nella conoscenza
+        del compostaggio e del riciclaggio.'
+      - "Frumos efort! Se pare c\u0103 mai este loc de cre\u0219tere \xEEn cuno\u0219tin\u021Bele
+        tale despre compostare \u0219i reciclare"
+      - "G\xFCzel \xE7aba! Kompostlama ve geri d\xF6n\xFC\u015F\xFCm konusunda bilginizin
+        hala geli\u015Febilece\u011Fi alanlar var gibi g\xF6r\xFCn\xFCyor"
+      - "Lepo delo! Zdi se, da je v va\u0161em znanju o kompostiranju in recikliranju
+        \u0161e nekaj prostora za rast."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: ou ve got a great handle on sorting waste correctly. Your choices are
+        helping to keep the park clean and green.
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: You did well, but it looks like there s still some room for improvement
+        in sorting waste.
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: You ve got a great handle on sorting waste correctly. Your choices are
+        helping to keep the park clean and green.
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019ve got a great handle on sorting waste correctly. Your choices
+        are helping to keep the park clean and green."
+      - "\u0388\u03C7\u03B5\u03C4\u03B5 \u03C0\u03BF\u03BB\u03CD \u03BA\u03B1\u03BB\u03AE
+        \u03B3\u03BD\u03CE\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03C3\u03C9\u03C3\u03C4\u03AE\u03C2
+        \u03B4\u03B9\u03B1\u03BB\u03BF\u03B3\u03AE\u03C2 \u03C4\u03C9\u03BD \u03B1\u03C0\u03BF\u03C1\u03C1\u03B9\u03BC\u03BC\u03AC\u03C4\u03C9\u03BD.
+        \u039F\u03B9 \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AD\u03C2 \u03C3\u03B1\u03C2
+        \u03C3\u03C5\u03BC\u03B2\u03AC\u03BB\u03BB\u03BF\u03C5\u03BD \u03C3\u03C4\u03B7
+        \u03B4\u03B9\u03B1\u03C4\u03AE\u03C1\u03B7\u03C3\u03B7 \u03C4\u03BF\u03C5
+        \u03C0\u03AC\u03C1\u03BA\u03BF\u03C5 \u03BA\u03B1\u03B8\u03B1\u03C1\u03BF\u03CD
+        \u03BA\u03B1\u03B9 \u03C0\u03C1\u03AC\u03C3\u03B9\u03BD\u03BF\u03C5."
+      - Sabes clasificar bien los residuos. Tus elecciones ayudan a mantener el parque
+        limpio y verde.
+      - Hondakinak ondo sailkatzen dakizu. Zure hauteskundeek parke garbia eta berdea
+        mantentzen laguntzen dute.
+      - Avete un'ottima gestione della corretta differenziazione dei rifiuti. Le
+        vostre scelte contribuiscono a mantenere il parco pulito e verde.
+      - "V-a\u021Bi descurcat foarte bine cu sortarea corect\u0103 a de\u0219eurilor.
+        Alegerile tale contribuie la men\u021Binerea parcului curat \u0219i verde."
+      - "At\u0131klar\u0131 do\u011Fru \u015Fekilde ay\u0131rma konusunda harika
+        bir anlay\u0131\u015Fa sahipsiniz. Se\xE7imleriniz park\u0131n temiz ve ye\u015Fil
+        kalmas\u0131na yard\u0131mc\u0131 oluyor."
+      - "Odli\u010Dno obvladate pravilno razvr\u0161\u010Danje odpadkov. S svojimi
+        odlo\u010Ditvami pomaga\u0161 ohranjati park \u010Dist in zelen."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: You did well, but it looks like there s still some room for improvement
+        in sorting waste
+      TermType: 0
+      Description: 
+      Languages:
+      - "You did well, but it looks like there\u2019s still some room for improvement
+        in sorting waste"
+      - "\u03A4\u03B1 \u03C0\u03AE\u03B3\u03B1\u03C4\u03B5 \u03BA\u03B1\u03BB\u03AC,
+        \u03B1\u03BB\u03BB\u03AC \u03C6\u03B1\u03AF\u03BD\u03B5\u03C4\u03B1\u03B9
+        \u03CC\u03C4\u03B9 \u03C5\u03C0\u03AC\u03C1\u03C7\u03BF\u03C5\u03BD \u03B1\u03BA\u03CC\u03BC\u03B1
+        \u03C0\u03B5\u03C1\u03B9\u03B8\u03CE\u03C1\u03B9\u03B1 \u03B2\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7\u03C2
+        \u03C3\u03C4\u03B7 \u03B4\u03B9\u03B1\u03BB\u03BF\u03B3\u03AE \u03C4\u03C9\u03BD
+        \u03B1\u03C0\u03BF\u03C1\u03C1\u03B9\u03BC\u03BC\u03AC\u03C4\u03C9\u03BD."
+      - "Lo has hecho bien, pero parece que a\xFAn hay margen de mejora en la clasificaci\xF3n
+        de residuos"
+      - Ondo egin duzu, baina badirudi oraindik hobetzeko tartea dagoela hondakinen
+        sailkapenean
+      - ' Siete stati bravi, ma sembra che ci sia ancora un margine di miglioramento
+        nella differenziazione dei rifiuti.'
+      - "V-a\u021Bi descurcat bine, dar se pare c\u0103 mai este loc de \xEEmbun\u0103t\u0103\u021Biri
+        \xEEn ceea ce prive\u0219te sortarea de\u0219eurilor"
+      - "\u0130yi i\u015F \xE7\u0131kard\u0131n\u0131z, ancak at\u0131k ay\u0131rma
+        konusunda hala geli\u015Fmeye a\xE7\u0131k alanlar var gibi g\xF6r\xFCn\xFCyor"
+      - "Dobro ste se odrezali, vendar se zdi, da je pri razvr\u0161\u010Danju odpadkov
+        \u0161e nekaj prostora za izbolj\u0161ave."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Select your character
+      TermType: 0
+      Description: 
+      Languages:
+      - Select your character
+      - "\u0395\u03C0\u03B9\u03BB\u03AD\u03BE\u03C4\u03B5 \u03C4\u03BF\u03BD \u03C7\u03B1\u03C1\u03B1\u03BA\u03C4\u03AE\u03C1\u03B1
+        \u03C3\u03B1\u03C2"
+      - Selecciona tu personaje
+      - Aukeratu zure pertsonaia
+      - Seleziona il personaggio
+      - "Selecteaz\u0103 caracterul"
+      - "Karakterinizi se\xE7in"
+      - Izberite svoj lik
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: gehitzen zaizkionean.
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - ' gehitzen zaizkionean.'
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: DragAndDrop2
+      TermType: 4
+      Description: 
+      Languages:
+      - Drag&DropEN
+      - Drag&DropGR
+      - Drag&DropSP
+      - Drag&DropBS
+      - Drag&DropIT
+      - Drag&DropRO
+      - Drag&DropTU
+      - Drag&DropSL
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Congratulations , you nailed it
+      TermType: 0
+      Description: 
+      Languages:
+      - Congratulations , you nailed it
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Greek
+      Code: el
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: Basque
+      Code: eu
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: Romanian
+      Code: ro
+      Flags: 0
+    - Name: Turkish
+      Code: tr
+      Flags: 0
+    - Name: Slovenian
+      Code: sl
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1
